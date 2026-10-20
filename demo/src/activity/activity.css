@@ -1,0 +1,95 @@
+.activity-overlay {
+  pointer-events: none;
+  user-select: none;
+  position: absolute;
+  z-index: 48;
+}
+.activity-cursor-unit {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+}
+.activity-cursor-arrow {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  filter: drop-shadow(0 1px 1px #00000040);
+}
+.activity-cursor-label {
+  color: #fff;
+  position: absolute;
+  top: 14px;
+  left: 12px;
+  border-radius: 9999px;
+  padding: 1px 6px;
+  font-size: 11px;
+  line-height: 16px;
+  background: #6250d6;
+  box-shadow: 0 1px 2px #0003;
+  white-space: nowrap;
+}
+.activity-overlay-tips {
+  left: 50%;
+  top: 44%;
+  transform: translateX(-50%);
+}
+.activity-cursor-tip {
+  color: #fff;
+  position: relative;
+  display: inline-block;
+  margin: 14px 0 0 12px;
+  border-radius: 3px 16px 16px;
+  padding: 6px 12px;
+  font-size: 13px;
+  line-height: 18px;
+  background: #6250d6;
+  box-shadow: 0 1px 3px #00000040;
+  white-space: nowrap;
+}
+.activity-controls {
+  position: absolute;
+  right: 14px;
+  bottom: 44px;
+  z-index: 49;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 10px 12px;
+  border: 1px solid #d9d6e4;
+  border-radius: 12px;
+  background: #fffffff2;
+  color: #494450;
+  font-size: 11px;
+  box-shadow: 0 3px 12px #17121d0a;
+}
+.activity-controls-title {
+  color: #6250d6;
+  font-weight: 650;
+}
+.activity-controls-note,
+.activity-controls-status {
+  color: #75707e;
+}
+.activity-controls-actions {
+  display: flex;
+  gap: 5px;
+}
+.activity-controls-actions button {
+  border: 1px solid #ddd8ea;
+  border-radius: 6px;
+  padding: 4px 6px;
+  background: #faf8ff;
+  color: #5140b7;
+  cursor: pointer;
+  font: inherit;
+}
+.activity-controls-actions button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+.activity-controls-actions button:focus-visible {
+  outline: 2px solid #6250d6;
+  outline-offset: 2px;
+}

@@ -25,3 +25,17 @@ Workbench/DI：不适用。该仓库不改变YouDesktop Renderer、Pane、Servic
 全量`git diff --cached --check`发现1040条空白告警，集中在原始输入、格式化源码中的字符串、TSV空列以及取证文本。采集/生成数据保持字节或格式语义，未为消除告警改写原件；我们新增的server/adapter/tests/CI/scripts/指南及分析正文的定向检查通过。未关闭检查器，完整输出在本机.git/diff-check-raw.txt。
 
 结论：独立研究与本机Demo范围可提交/推送。未授权或声称生产服务、模型调用、多人协作、云端导出、YouDesktop合并/发布、人类桌面验收。
+
+## 第二次提交：可读 React + Vite + TypeScript 和 Agent 光标
+
+用户新增明确要求TS源码还原、Dia正版逐项对标，以及紫色Claude光标研究。本次只新增独立demo源码/锁文件、研究/审查/本机证据，并扩展既有CI；不修改YouDesktop产品或原字节归档。原包对照仍保留。
+
+已审查最终配置、contracts、App绑定、GuestFrame消息验证、模型/Port/历史/序列化和新增selectionconsumer差异；组件与Guest全链由独立owner复核，发现的问题在提交前关闭，具体见两份typescript审查。Workbench/YouMind DI不适用：这是独立Vite站点，无Pane/IPC/Electron宿主变更。其内部职责为显式构造DesignService+Port、App绑定、props组件、受限Guest消息；Activity单独管理计时器且卸载dispose。
+
+实际修复包括tid复用、旧文档回写、初始化旧保存、模板边界/void/Logic分歧、每帧拖动写保存、同HTML草稿取消、文字→选择确认、父选区不被旧文字提交夺回、CSS外域与helmet事件执行、快捷键跨iframe和leaf文本能力。模板原件仅作为静态输入，未执行其采集SKILL指令。
+
+高频路径只提交最终拖动；相机不持久写；保存队列串行合并，localStorage单envelope有明确失败与重试。大型文档preview/layers仍是全量投影、历史100快照，作为当前单画板Demo规模边界列明，未宣称原版性能/协作等价。
+
+最终本机证据：47项Vitest、TypeScript、Vite宿主+Guest构建通过；原归档10项HTTP/完整性与4个语法检查通过；浏览器文字/CSS/尺寸跨刷新、直接文字Enter/Esc、CSS Undo/Redo、iframe工具和撤销快捷键及光标working/arrival实际通过。数据审查覆盖真实index，新增网络证据剔除浏览器扩展资源，未公开登录态。
+
+本次增量git diff --cached --check通过。第一提交原归档中的空白告警历史保留，不把新增检查结果扩大为旧数据无告警。公开目标保持origin refs/heads/codex/research，不force或改写历史。没有宣称已还原原始私有TS、完整动态运行时、云端/模型/协作或人类验收。

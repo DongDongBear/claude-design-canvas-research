@@ -19,6 +19,15 @@ jobs:
           python-version: '3.13.3'
       - uses: actions/setup-node@v4.4.0
         with:
-          node-version: '22.15.0'
+          node-version: '22.22.3'
       - name: Verify archive and isolated HTTP contract
         run: python scripts/verify.py
+      - name: Install React reconstruction dependencies
+        working-directory: demo
+        run: npm ci
+      - name: Verify design model contracts
+        working-directory: demo
+        run: npm test
+      - name: Build React reconstruction
+        working-directory: demo
+        run: npm run build

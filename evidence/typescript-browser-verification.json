@@ -1,0 +1,71 @@
+{
+  "recordedAt": "2026-10-20T11:36:29.988940+00:00",
+  "url": "http://127.0.0.1:5173/",
+  "kind": "agent-controlled real browser business-flow observation",
+  "implementation": "React + Vite + TypeScript source; original app.js/dc-runtime.js not loaded",
+  "checks": [
+    {
+      "flow": "artboard width persistence",
+      "observed": "1280 → 1300 with Enter; reload read value 1300; restored 1280"
+    },
+    {
+      "flow": "Layers and element Properties",
+      "observed": "h1 selected from Layers; actual Guest rect/computed styles returned"
+    },
+    {
+      "flow": "Properties text and refresh",
+      "observed": "Atlas Redesign → Atlas Reconstructed; reload retained changed heading and Layers label"
+    },
+    {
+      "flow": "Code CSS and refresh",
+      "observed": "added color:#6250d6; after reload Code retained full inline style"
+    },
+    {
+      "flow": "StyleFields, undo, redo",
+      "observed": "Style color #d97757 measured rgb(217,119,87); undo rgb(98,80,214); redo rgb(217,119,87)"
+    },
+    {
+      "flow": "direct text cancel",
+      "observed": "double-click h1, replace selected text, Esc; source Properties still Atlas Reconstructed"
+    },
+    {
+      "flow": "direct text commit",
+      "observed": "double-click h1, replace with Atlas Inline Verified, Enter; Properties received same text"
+    },
+    {
+      "flow": "keyboard while iframe focused",
+      "observed": "H set Hand aria-pressed=true; V restored Select; Cmd+Z/Cmd+Shift+Z reverted/restored CSS"
+    },
+    {
+      "flow": "camera fit",
+      "observed": "Fit all artboards changed 50% to 38% and displayed whole 1280×1420 board"
+    },
+    {
+      "flow": "purple cursor protocol simulation",
+      "observed": "working waiting 1 board → simulated file arrival → working file arrived → end; no model request or design mutation"
+    },
+    {
+      "flow": "sample restoration",
+      "observed": "restored Atlas Redesign heading, original h1 inline CSS and width1280; final reload showed restored sample"
+    }
+  ],
+  "network": {
+    "file": "typescript-network.json",
+    "observedHttpRequests": 44,
+    "externalHttpRequests": 0,
+    "browserExtensionRequestsExcluded": true,
+    "limits": "one final reload observation, not a general network sandbox proof"
+  },
+  "notVerified": [
+    "real Claude model execution",
+    "real Agent presence coordinate frames",
+    "cloud publishing ACK",
+    "multi-user merge",
+    "complete original DCLogic runtime",
+    "human product acceptance"
+  ],
+  "screenshot": {
+    "file": "typescript-purple-cursor.jpg",
+    "sha256": "428528b4b874be38159844bb1145d87c272460921422e0716db890d3886c0a55"
+  }
+}
