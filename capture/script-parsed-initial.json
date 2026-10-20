@@ -1,0 +1,672 @@
+[
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "endColumn": 5914,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "8b985e33d000a15855892da69ff861bfb64b94d91d134bfc9226f340f7ef67b8",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 3470,
+    "scriptId": "12",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 2444,
+    "startLine": 0,
+    "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "endColumn": 13434,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "ab28026d3fae2dfc42387bd98d9c9bcc0ac3fe88bf16df6e0f0bb87b20bfbad2",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 7470,
+    "scriptId": "13",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 5964,
+    "startLine": 0,
+    "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "endColumn": 15277,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "21dadeb69b1d40297de8fae5f8783e1a1aa40130a4974dfb5b9fd248fdc61b16",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 1793,
+    "scriptId": "14",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 13484,
+    "startLine": 0,
+    "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "endColumn": 17165,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "faec43a44fd142823d0a9512f96d97735e790a880c52d96559f4e1fd23aec629",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 1838,
+    "scriptId": "15",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 15327,
+    "startLine": 0,
+    "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "endColumn": 2115,
+    "endLine": 2,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "be1d06c7982d69f56a3089417904d7b26ab4abc3c2af175a89a44fb654591d43",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 991,
+    "scriptId": "16",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 1124,
+    "startLine": 2,
+    "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "endColumn": 158882,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "e58e3601f24241c5c28b80cf99b6db3ba2b6c5cf4696fba028891112192cc0b2",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 158882,
+    "scriptId": "24",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "endColumn": 5276,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "d5ac251afec3e99a9ec43c82aca503f6b6dd9792602bc2c3dcd07f36b3d53278",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 5276,
+    "scriptId": "27",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "endColumn": 1163,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "8de1cbd72f084ef0bccdb398507ed1fe97b748a074401bca9c0c18dab0d7c8af",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 1163,
+    "scriptId": "28",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "endColumn": 32343,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "855f2c65111758a23fac4431040eb9b5f10788e0528b75af98cd2a0042f63826",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 32343,
+    "scriptId": "29",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "endColumn": 36784,
+    "endLine": 8,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "f2e5616eb7be651b923269a4ddd89aaeb0dfe99817ce51376de56e8fa9adf537",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 492455,
+    "scriptId": "25",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "endColumn": 394722,
+    "endLine": 16,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "6e61a6b70fe16e1ea083737d866fa4457fe563d1cb53642add240408a82717dc",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 1672931,
+    "scriptId": "26",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "endColumn": 3693,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "102895f73a6774e39a9a1173090169bfe6fe26d63a85947557f26a4fe51beff0",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 3693,
+    "scriptId": "31",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "endColumn": 114931,
+    "endLine": 10,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 511958,
+    "scriptId": "30",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "endColumn": 123839,
+    "endLine": 13,
+    "executionContextAuxData": {
+      "frameId": "349DC7E842473D4DF54EB70B70B02731",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 1,
+    "hasSourceURL": false,
+    "hash": "d7f9b9d35642d3fb790809c8292d9acf496a295ce440d23e81734aa25cb0c52b",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 259522,
+    "scriptId": "34",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js"
+  },
+  {
+    "source": {
+      "tabId": 1
+    },
+    "buildId": "",
+    "embedderName": "https://claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "endColumn": 23645,
+    "endLine": 0,
+    "executionContextAuxData": {
+      "frameId": "D9921431BBC52A0C300DC2E4DA905E3E",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 4,
+    "hasSourceURL": false,
+    "hash": "084f105518277bb4d5df2a0a266fccce2bc500a946089907ba9b452fe3929fd9",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 23645,
+    "scriptId": "63",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "endColumn": 1161,
+    "endLine": 2,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "3d56ff71f4e138ce621b3b57a50d011cf23042d43b8172ebf7ae8c090e913f2b",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 1125,
+    "scriptId": "5",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 36,
+    "startLine": 2,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "endColumn": 40422,
+    "endLine": 2,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "54205be1018a5ac08866e51c7a6cb2a90ff0119c4e342e78763c592c157b763b",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 39244,
+    "scriptId": "7",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 1178,
+    "startLine": 2,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "endColumn": 5,
+    "endLine": 915,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "5dc0e103d7ba5ce81c80ba46b2a760c7c75851b3a0e9a1bb261f4d48e6345958",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 29131,
+    "scriptId": "8",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 8,
+    "startLine": 4,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "endColumn": 196,
+    "endLine": 953,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "7180603abf57fce43369e52c9826cce6025cd334b2eb297cce6202d218d4a053",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 188,
+    "scriptId": "9",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 8,
+    "startLine": 953,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "endColumn": 347,
+    "endLine": 954,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "3cfed8011134ce8a88582e2f96f94b1c8e70f6dec9bb3be6547adb6bae34d984",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 320,
+    "scriptId": "10",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 27,
+    "startLine": 954,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "endColumn": 86,
+    "endLine": 957,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "621e5740ade898593a239290ae7a241ea84d203144d535749853594e753d03b3",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 78,
+    "scriptId": "11",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 8,
+    "startLine": 957,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "endColumn": 0,
+    "endLine": 1,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "21375c3ce3b3cefd37cf203cec8cba30d4bae2a8b49a9ee1505cdbe3330c68cb",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 37941,
+    "scriptId": "12",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "endColumn": 0,
+    "endLine": 1,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "3634c599ed8d66505fe541a993baf6543ed6dca1855b0d81a357b5a4accec1ae",
+    "isLiveEdit": false,
+    "isModule": true,
+    "length": 6004,
+    "scriptId": "14",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "endColumn": 0,
+    "endLine": 3047,
+    "executionContextAuxData": {
+      "frameId": "1325104DBDE34213C7B9B58347C8308F",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 2,
+    "hasSourceURL": false,
+    "hash": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 4153827,
+    "scriptId": "13",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js"
+  },
+  {
+    "source": {
+      "sessionId": "1577785CDBF788680C502E12CDCEF38C",
+      "tabId": 1,
+      "targetId": "1325104DBDE34213C7B9B58347C8308F"
+    },
+    "buildId": "",
+    "embedderName": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "endColumn": 0,
+    "endLine": 350,
+    "executionContextAuxData": {
+      "frameId": "0770763A466B7046FC8AFB3C3C7442F2",
+      "isDefault": true,
+      "type": "default"
+    },
+    "executionContextId": 5,
+    "hasSourceURL": false,
+    "hash": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "isLiveEdit": false,
+    "isModule": false,
+    "length": 187897,
+    "scriptId": "22",
+    "scriptLanguage": "JavaScript",
+    "sourceMapURL": "",
+    "startColumn": 0,
+    "startLine": 0,
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js"
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20fill%3D%22%23f1effc%22%2F%3E%3Cg%20id%3D%22g%22%20color%3D%22%237161e0%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20transform%3D%22translate(4%204)%20scale(1.2)%22%3E%3Cpath%20d%3D%22M3%2010C3%206.134%206.134%203%2010%203C13.866%203%2017%206.134%2017%2010C17%2011%2016.712%2011.608%2016.257%2011.974C15.803%2012.34%2015.183%2012.463%2014.52%2012.493C13.857%2012.524%2013.15%2012.461%2012.522%2012.454C12.209%2012.45%2011.915%2012.461%2011.656%2012.504C11.397%2012.547%2011.173%2012.623%2011%2012.75C10.625%2013.025%2010.469%2013.46%2010.398%2013.946C10.363%2014.19%2010.35%2014.446%2010.341%2014.702C10.332%2014.958%2010.328%2015.213%2010.313%2015.455C10.281%2015.939%2010.203%2016.367%209.945%2016.634C9.688%2016.9%209.25%2017%208.5%2016.839C8.157%2016.763%207.823%2016.663%207.5%2016.539C4.87%2015.529%203%2012.985%203%2010Z%22%2F%3E%3Cpath%20d%3D%22M10.968%205.5C10.707%205.517%2010.5%205.734%2010.5%206C10.5%206.276%2010.724%206.5%2011%206.5C11.276%206.5%2011.5%206.276%2011.5%206C11.5%205.734%2011.293%205.517%2011.032%205.5%22%2F%3E%3Cpath%20d%3D%22M13.968%208.5C13.707%208.517%2013.5%208.734%2013.5%209C13.5%209.276%2013.724%209.5%2014%209.5C14.276%209.5%2014.5%209.276%2014.5%209C14.5%208.734%2014.293%208.517%2014.032%208.5%22%2F%3E%3Cpath%20d%3D%22M6.968%206.5C6.707%206.517%206.5%206.734%206.5%207C6.5%207.276%206.724%207.5%207%207.5C7.276%207.5%207.5%207.276%207.5%207C7.5%206.734%207.293%206.517%207.032%206.5%22%2F%3E%3Cpath%20d%3D%22M5.968%2010.5C5.707%2010.517%205.5%2010.734%205.5%2011C5.5%2011.276%205.724%2011.5%206%2011.5C6.276%2011.5%206.5%2011.276%206.5%2011C6.5%2010.734%206.293%2010.517%206.032%2010.5%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "path": "embedded/5e6e33ee7f7669bd.bin",
+    "bytes": 1393,
+    "sha256": "e09d7716e07b3b88cd998cbcca8d6e31241cd696d7069a427c05f4e9f1c72bdc",
+    "method": "Page.getResourceContent",
+    "mimeType": "image/svg+xml",
+    "type": "Image",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "bytes": 577303,
+    "sha256": "8fdf6372b2375fb8245d564ef7976db3df16cef5571235f2862dc286a79bf167",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "bytes": 1163,
+    "sha256": "8de1cbd72f084ef0bccdb398507ed1fe97b748a074401bca9c0c18dab0d7c8af",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "bytes": 32343,
+    "sha256": "855f2c65111758a23fac4431040eb9b5f10788e0528b75af98cd2a0042f63826",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "bytes": 1672931,
+    "sha256": "6e61a6b70fe16e1ea083737d866fa4457fe563d1cb53642add240408a82717dc",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "bytes": 259522,
+    "sha256": "d7f9b9d35642d3fb790809c8292d9acf496a295ce440d23e81734aa25cb0c52b",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22180%22%20height%3D%22180%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20fill%3D%22%23f1effc%22%2F%3E%3Cg%20id%3D%22g%22%20color%3D%22%237161e0%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20transform%3D%22translate(4%204)%20scale(1.2)%22%3E%3Cpath%20d%3D%22M3%2010C3%206.134%206.134%203%2010%203C13.866%203%2017%206.134%2017%2010C17%2011%2016.712%2011.608%2016.257%2011.974C15.803%2012.34%2015.183%2012.463%2014.52%2012.493C13.857%2012.524%2013.15%2012.461%2012.522%2012.454C12.209%2012.45%2011.915%2012.461%2011.656%2012.504C11.397%2012.547%2011.173%2012.623%2011%2012.75C10.625%2013.025%2010.469%2013.46%2010.398%2013.946C10.363%2014.19%2010.35%2014.446%2010.341%2014.702C10.332%2014.958%2010.328%2015.213%2010.313%2015.455C10.281%2015.939%2010.203%2016.367%209.945%2016.634C9.688%2016.9%209.25%2017%208.5%2016.839C8.157%2016.763%207.823%2016.663%207.5%2016.539C4.87%2015.529%203%2012.985%203%2010Z%22%2F%3E%3Cpath%20d%3D%22M10.968%205.5C10.707%205.517%2010.5%205.734%2010.5%206C10.5%206.276%2010.724%206.5%2011%206.5C11.276%206.5%2011.5%206.276%2011.5%206C11.5%205.734%2011.293%205.517%2011.032%205.5%22%2F%3E%3Cpath%20d%3D%22M13.968%208.5C13.707%208.517%2013.5%208.734%2013.5%209C13.5%209.276%2013.724%209.5%2014%209.5C14.276%209.5%2014.5%209.276%2014.5%209C14.5%208.734%2014.293%208.517%2014.032%208.5%22%2F%3E%3Cpath%20d%3D%22M6.968%206.5C6.707%206.517%206.5%206.734%206.5%207C6.5%207.276%206.724%207.5%207%207.5C7.276%207.5%207.5%207.276%207.5%207C7.5%206.734%207.293%206.517%207.032%206.5%22%2F%3E%3Cpath%20d%3D%22M5.968%2010.5C5.707%2010.517%205.5%2010.734%205.5%2011C5.5%2011.276%205.724%2011.5%206%2011.5C6.276%2011.5%206.5%2011.276%206.5%2011C6.5%2010.734%206.293%2010.517%206.032%2010.5%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "path": "embedded/0bb79d5b924776a7.bin",
+    "bytes": 1393,
+    "sha256": "2ee36520ae9a51a8af87a39d3074f6b3f242ed4a091caf0a58da59f9b9b4b774",
+    "method": "Page.getResourceContent",
+    "mimeType": "image/svg+xml",
+    "type": "Image",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "bytes": 5276,
+    "sha256": "d5ac251afec3e99a9ec43c82aca503f6b6dd9792602bc2c3dcd07f36b3d53278",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22192%22%20height%3D%22192%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20fill%3D%22%23f1effc%22%2F%3E%3Cg%20id%3D%22g%22%20color%3D%22%237161e0%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20transform%3D%22translate(4%204)%20scale(1.2)%22%3E%3Cpath%20d%3D%22M3%2010C3%206.134%206.134%203%2010%203C13.866%203%2017%206.134%2017%2010C17%2011%2016.712%2011.608%2016.257%2011.974C15.803%2012.34%2015.183%2012.463%2014.52%2012.493C13.857%2012.524%2013.15%2012.461%2012.522%2012.454C12.209%2012.45%2011.915%2012.461%2011.656%2012.504C11.397%2012.547%2011.173%2012.623%2011%2012.75C10.625%2013.025%2010.469%2013.46%2010.398%2013.946C10.363%2014.19%2010.35%2014.446%2010.341%2014.702C10.332%2014.958%2010.328%2015.213%2010.313%2015.455C10.281%2015.939%2010.203%2016.367%209.945%2016.634C9.688%2016.9%209.25%2017%208.5%2016.839C8.157%2016.763%207.823%2016.663%207.5%2016.539C4.87%2015.529%203%2012.985%203%2010Z%22%2F%3E%3Cpath%20d%3D%22M10.968%205.5C10.707%205.517%2010.5%205.734%2010.5%206C10.5%206.276%2010.724%206.5%2011%206.5C11.276%206.5%2011.5%206.276%2011.5%206C11.5%205.734%2011.293%205.517%2011.032%205.5%22%2F%3E%3Cpath%20d%3D%22M13.968%208.5C13.707%208.517%2013.5%208.734%2013.5%209C13.5%209.276%2013.724%209.5%2014%209.5C14.276%209.5%2014.5%209.276%2014.5%209C14.5%208.734%2014.293%208.517%2014.032%208.5%22%2F%3E%3Cpath%20d%3D%22M6.968%206.5C6.707%206.517%206.5%206.734%206.5%207C6.5%207.276%206.724%207.5%207%207.5C7.276%207.5%207.5%207.276%207.5%207C7.5%206.734%207.293%206.517%207.032%206.5%22%2F%3E%3Cpath%20d%3D%22M5.968%2010.5C5.707%2010.517%205.5%2010.734%205.5%2011C5.5%2011.276%205.724%2011.5%206%2011.5C6.276%2011.5%206.5%2011.276%206.5%2011C6.5%2010.734%206.293%2010.517%206.032%2010.5%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "path": "embedded/8127751f4f634157.bin",
+    "bytes": 1393,
+    "sha256": "bc5eb785b59ce93c7a3427f88dd221f1a30c3d48edc877b5fd3fe2f6785bb7b0",
+    "method": "Page.getResourceContent",
+    "mimeType": "image/svg+xml",
+    "type": "Image",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "bytes": 3693,
+    "sha256": "102895f73a6774e39a9a1173090169bfe6fe26d63a85947557f26a4fe51beff0",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "bytes": 511958,
+    "sha256": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "bytes": 492455,
+    "sha256": "f2e5616eb7be651b923269a4ddd89aaeb0dfe99817ce51376de56e8fa9adf537",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "bytes": 158882,
+    "sha256": "e58e3601f24241c5c28b80cf99b6db3ba2b6c5cf4696fba028891112192cc0b2",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "349DC7E842473D4DF54EB70B70B02731"
+  },
+  {
+    "url": "https://claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "path": "assets/claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "bytes": 26290,
+    "sha256": "df320180e102359a00aca1e053fec05ccc01161b81baf120ccc245804ddfc0a3",
+    "method": "anonymous-https-current-body",
+    "mimeType": "application/javascript",
+    "type": "Script",
+    "frameId": "D9921431BBC52A0C300DC2E4DA905E3E",
+    "initialCapture": {
+      "sha256": "084f105518277bb4d5df2a0a266fccce2bc500a946089907ba9b452fe3929fd9",
+      "bytes": 23645,
+      "retained": false,
+      "reason": "动态外围脚本被后续匿名HTTP响应覆写，原版本不再保留"
+    }
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "bytes": 6004,
+    "sha256": "3634c599ed8d66505fe541a993baf6543ed6dca1855b0d81a357b5a4accec1ae",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "1325104DBDE34213C7B9B58347C8308F"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "bytes": 37941,
+    "sha256": "21375c3ce3b3cefd37cf203cec8cba30d4bae2a8b49a9ee1505cdbe3330c68cb",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "1325104DBDE34213C7B9B58347C8308F"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "1325104DBDE34213C7B9B58347C8308F"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "bytes": 481552,
+    "sha256": "471ea680e9469e7a18cc3ab628c63e282bbab26065d21d6baf22ba79be6d9bf0",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/css",
+    "type": "Stylesheet",
+    "frameId": "1325104DBDE34213C7B9B58347C8308F"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "0770763A466B7046FC8AFB3C3C7442F2"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "bytes": 158882,
+    "sha256": "e58e3601f24241c5c28b80cf99b6db3ba2b6c5cf4696fba028891112192cc0b2",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "bytes": 3693,
+    "sha256": "102895f73a6774e39a9a1173090169bfe6fe26d63a85947557f26a4fe51beff0",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "bytes": 5276,
+    "sha256": "d5ac251afec3e99a9ec43c82aca503f6b6dd9792602bc2c3dcd07f36b3d53278",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "bytes": 1672931,
+    "sha256": "6e61a6b70fe16e1ea083737d866fa4457fe563d1cb53642add240408a82717dc",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "bytes": 511958,
+    "sha256": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "bytes": 1163,
+    "sha256": "8de1cbd72f084ef0bccdb398507ed1fe97b748a074401bca9c0c18dab0d7c8af",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "bytes": 492455,
+    "sha256": "f2e5616eb7be651b923269a4ddd89aaeb0dfe99817ce51376de56e8fa9adf537",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "bytes": 32343,
+    "sha256": "855f2c65111758a23fac4431040eb9b5f10788e0528b75af98cd2a0042f63826",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "bytes": 259522,
+    "sha256": "d7f9b9d35642d3fb790809c8292d9acf496a295ce440d23e81734aa25cb0c52b",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "bytes": 577303,
+    "sha256": "8fdf6372b2375fb8245d564ef7976db3df16cef5571235f2862dc286a79bf167",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "type": "Script"
+  },
+  {
+    "url": "https://claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9?via=user_open&bk=initial&actor=id&vt=1",
+    "path": "assets/claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9__75a28487ec38",
+    "bytes": 4035,
+    "sha256": "31d361dd935102f8ae8318ba04d1c47640a656f878834ab36a494231bf4163c9",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "application/json",
+    "type": "Fetch",
+    "redactedQueryFields": [
+      "org"
+    ]
+  },
+  {
+    "url": "https://claude.ai/images/artifact-icons/glyphs.svg?v=1uaixo0",
+    "path": "assets/claude.ai/images/artifact-icons/glyphs.svg__333f8d9e6907",
+    "bytes": 74007,
+    "sha256": "0fc4d1a8924467f609f09bad4c7dcf09e774d84c5d2554b7dac24b4a560488f7",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "type": "Fetch"
+  },
+  {
+    "url": "https://claude.ai/favicon.ico",
+    "path": "assets/claude.ai/favicon.ico",
+    "bytes": 2445,
+    "sha256": "525d5c063365f7656ba0fe8b9165742c4874e70852d9bed7153b6faca8663a02",
+    "method": "Network.getResponseBody",
+    "status": 200,
+    "mimeType": "image/vnd.microsoft.icon",
+    "type": "Other"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "bytes": 6004,
+    "sha256": "3634c599ed8d66505fe541a993baf6543ed6dca1855b0d81a357b5a4accec1ae",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "47E502FE006B2F64DB210E08AF23C368"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "bytes": 37941,
+    "sha256": "21375c3ce3b3cefd37cf203cec8cba30d4bae2a8b49a9ee1505cdbe3330c68cb",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "47E502FE006B2F64DB210E08AF23C368"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "47E502FE006B2F64DB210E08AF23C368"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "bytes": 481552,
+    "sha256": "471ea680e9469e7a18cc3ab628c63e282bbab26065d21d6baf22ba79be6d9bf0",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/css",
+    "type": "Stylesheet",
+    "frameId": "47E502FE006B2F64DB210E08AF23C368"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "method": "Page.getResourceContent",
+    "mimeType": "text/javascript",
+    "type": "Script",
+    "frameId": "F4170CC3EA08DEA24E54497F9A60F140"
+  }
+]

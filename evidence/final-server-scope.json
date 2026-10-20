@@ -1,0 +1,10 @@
+{
+  "scope": "原UI浏览器验证发生在最初本机副本；GitHub整理版仅收紧Origin及路径冲突校验。相同成功调用链的语义保持，由独立HTTP拒绝路径验证补齐。",
+  "serverChanges": [
+    "Origin精确对应Host",
+    "批次父子路径与已存在文件祖先预检"
+  ],
+  "target": "replay/server.py",
+  "sha256": "2a6f35c283c403d998dae9c332ad53d9417ee3de3bf4add00d02cd20eb96128a",
+  "demoCodeUnchanged": true
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-canvas/app.js",
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "bytes": 4153993,
+    "parsed": true,
+    "parser_errors": [],
+    "ast_nodes": 1123046,
+    "imports": 0,
+    "exports": 0,
+    "classes": 44,
+    "interesting_calls": 1231,
+    "relevant_strings": 906,
+    "embedded_strings": 1,
+    "duration_seconds": 0.6833293749999999
+  },
+  {
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-canvas/dc-runtime.js",
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "bytes": 187897,
+    "parsed": true,
+    "parser_errors": [],
+    "ast_nodes": 61034,
+    "imports": 0,
+    "exports": 0,
+    "classes": 3,
+    "interesting_calls": 44,
+    "relevant_strings": 18,
+    "embedded_strings": 0,
+    "duration_seconds": 0.08101962500000003
+  },
+  {
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/vendor-frame-DaQ5k-Tx.js",
+    "sha256": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24",
+    "bytes": 511958,
+    "parsed": true,
+    "parser_errors": [],
+    "ast_nodes": 168255,
+    "imports": 1,
+    "exports": 1,
+    "classes": 26,
+    "interesting_calls": 107,
+    "relevant_strings": 22,
+    "embedded_strings": 0,
+    "duration_seconds": 0.09882916699999998
+  }
+]

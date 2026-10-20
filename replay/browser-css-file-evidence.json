@@ -1,0 +1,18 @@
+{
+  "health": {
+    "offline": true,
+    "binding": "127.0.0.1",
+    "seq": 7,
+    "writes": [
+      "project/Composed.dc.html",
+      "project/canvas.json"
+    ],
+    "deleted": [
+      "project/ReplaySmoke.txt",
+      "project/ReplayAtomicSmoke.txt"
+    ],
+    "upstream": false
+  },
+  "savedCssFound": true,
+  "htmlSha256": "d1538a7e335ab4e6b97f08a99df9ea5dda848abb033010d212dfb450627421e1"
+}

@@ -1,0 +1,1160 @@
+{
+  "evidence_id": "ev_242c2b1b86ce32fbb1eface19c18c6951c38e93c509e09f317bdaa1a7c402be0",
+  "note": "静态观测的导出绑定及 URL 形状 endpoint 候选；未调用 API，未证明运行时执行。",
+  "export_bindings": [
+    {
+      "node_id": "jag_node_0dacd1adcbdf9998e291cb40ada82f223354f2619fc84fa488c85369cecdf1b5",
+      "label": "c43c83380-CChY_0mG.js:fetchTaggedSessions",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "fetchTaggedSessions",
+        "local_name": "k",
+        "imported_name": "k",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14802
+          },
+          "end": {
+            "line": 1,
+            "column": 14826
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_16dce9caaac44f2f7508fdd278328b71efa64ed027ce42f1f467c9a8e1021714",
+      "label": "c43c83380-CChY_0mG.js:createArtifactSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "createArtifactSession",
+        "local_name": "fe",
+        "imported_name": "fe",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14720
+          },
+          "end": {
+            "line": 1,
+            "column": 14747
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_1dba0a0c72d17f9f2e4f81218d1b6489883f0338940420227e03cb1239eb71c6",
+      "label": "c26621f4a-BCkxRv_i.js:wakeSessionForComment",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c26621f4a-BCkxRv_i.js",
+        "relationship_kind": "export",
+        "exported_name": "wakeSessionForComment",
+        "local_name": "Mt",
+        "imported_name": "Mt",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c26621f4a-BCkxRv_i.js",
+          "start": {
+            "line": 8,
+            "column": 14480
+          },
+          "end": {
+            "line": 8,
+            "column": 14507
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_248f9257b3df399e504abd60f5edea3e843e30df6bc316c305b99b224aeae469",
+      "label": "c26621f4a-BCkxRv_i.js:watchWokenSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c26621f4a-BCkxRv_i.js",
+        "relationship_kind": "export",
+        "exported_name": "watchWokenSession",
+        "local_name": "on",
+        "imported_name": "on",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c26621f4a-BCkxRv_i.js",
+          "start": {
+            "line": 8,
+            "column": 14538
+          },
+          "end": {
+            "line": 8,
+            "column": 14561
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_285860c1654e66ad14bd0c2e372f3f41316cd84dc79b14012eb50536dc7b75bd",
+      "label": "frame-shell-replica-D0Xy7sOd.js:LiveReplica",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "frame-shell-replica-D0Xy7sOd.js",
+        "relationship_kind": "export",
+        "exported_name": "LiveReplica",
+        "local_name": "Ne",
+        "imported_name": "Ne",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-replica-D0Xy7sOd.js",
+          "start": {
+            "line": 1,
+            "column": 1314326
+          },
+          "end": {
+            "line": 1,
+            "column": 1314343
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_2ff9bbd5cfa4fe86660126bdb94c16e884e284a9e321b73507cc15c616af7d86",
+      "label": "c43c83380-CChY_0mG.js:createCoworkSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "createCoworkSession",
+        "local_name": "ue",
+        "imported_name": "ue",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14748
+          },
+          "end": {
+            "line": 1,
+            "column": 14773
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_4a51036bf4042d844c4ac8f83b4e8c41ac3ac764c9b45386da1b50edd86664cf",
+      "label": "c43c83380-CChY_0mG.js:getSessionTurnFailure",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "getSessionTurnFailure",
+        "local_name": "he",
+        "imported_name": "he",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14852
+          },
+          "end": {
+            "line": 1,
+            "column": 14879
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_4b2063b375b1bb21c09ea66a7eb7d6f2f52c63aa05484956ab683784a541cfe1",
+      "label": "c43c83380-CChY_0mG.js:fetchArtifactSessions",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "fetchArtifactSessions",
+        "local_name": "re",
+        "imported_name": "re",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14774
+          },
+          "end": {
+            "line": 1,
+            "column": 14801
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_53db927ad6f85cd90c246675a1f3fa308b9750341e0cadcfed19e9a2ec654038",
+      "label": "frame-shell-broker-HUDVMAJS.js:saveShellFile",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "frame-shell-broker-HUDVMAJS.js",
+        "relationship_kind": "export",
+        "exported_name": "saveShellFile",
+        "local_name": "Xm",
+        "imported_name": "Xm",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-broker-HUDVMAJS.js",
+          "start": {
+            "line": 14,
+            "column": 226384
+          },
+          "end": {
+            "line": 14,
+            "column": 226403
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_6a5aa59624e0fc69a4f33700f668c45489f433dceab3d259f9d3d5a4a410b635",
+      "label": "cbf442711-DvEEkKDm.js:startArtifactTask",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "cbf442711-DvEEkKDm.js",
+        "relationship_kind": "export",
+        "exported_name": "startArtifactTask",
+        "local_name": "p",
+        "imported_name": "p",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "cbf442711-DvEEkKDm.js",
+          "start": {
+            "line": 1,
+            "column": 945
+          },
+          "end": {
+            "line": 1,
+            "column": 967
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_77bbd371c262e39c11a5b000386d4575b73c71fc0d3a54ac2171e15e745e7079",
+      "label": "c43c83380-CChY_0mG.js:postSessionMessage",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "postSessionMessage",
+        "local_name": "V",
+        "imported_name": "V",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14880
+          },
+          "end": {
+            "line": 1,
+            "column": 14903
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_79926c470f502e6d8e4c436be012f1d531ac53f3dcf76e0023891b72ef3f00e6",
+      "label": "frame-shell-deferred-Br0hC66Q.js:fileCommentAccessRequest",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "frame-shell-deferred-Br0hC66Q.js",
+        "relationship_kind": "export",
+        "exported_name": "fileCommentAccessRequest",
+        "local_name": "Dy",
+        "imported_name": "Dy",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-deferred-Br0hC66Q.js",
+          "start": {
+            "line": 14,
+            "column": 122963
+          },
+          "end": {
+            "line": 14,
+            "column": 122993
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_7f96db3581d5e39fe9ab927b90a9a6165d96ff4e44bc5ac2ecb7d0de25d9c8b7",
+      "label": "frame-shell-deferred-Br0hC66Q.js:fileEditAccessRequest",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "frame-shell-deferred-Br0hC66Q.js",
+        "relationship_kind": "export",
+        "exported_name": "fileEditAccessRequest",
+        "local_name": "xy",
+        "imported_name": "xy",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-deferred-Br0hC66Q.js",
+          "start": {
+            "line": 14,
+            "column": 122994
+          },
+          "end": {
+            "line": 14,
+            "column": 123021
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_8ff061bfd6248ef39a97b2dee25a5d388e19d695dd18e7aef8b64fa4bda0d886",
+      "label": "cbf442711-DvEEkKDm.js:hasTaggedSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "cbf442711-DvEEkKDm.js",
+        "relationship_kind": "export",
+        "exported_name": "hasTaggedSession",
+        "local_name": "u",
+        "imported_name": "u",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "cbf442711-DvEEkKDm.js",
+          "start": {
+            "line": 1,
+            "column": 882
+          },
+          "end": {
+            "line": 1,
+            "column": 903
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_94976447ea46a91fbc844a5952af4ec32c25c88867903b7537b497fa65b39818",
+      "label": "c43c83380-CChY_0mG.js:ARTIFACT_COMMENT_TAG",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "ARTIFACT_COMMENT_TAG",
+        "local_name": "d",
+        "imported_name": "d",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14511
+          },
+          "end": {
+            "line": 1,
+            "column": 14536
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_9ef661b2109d5355b4a23cee0502c4ede4c0ab3dee7c256627fffbecc4bf729b",
+      "label": "c26621f4a-BCkxRv_i.js:mapWokenSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c26621f4a-BCkxRv_i.js",
+        "relationship_kind": "export",
+        "exported_name": "mapWokenSession",
+        "local_name": "tn",
+        "imported_name": "tn",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c26621f4a-BCkxRv_i.js",
+          "start": {
+            "line": 8,
+            "column": 14116
+          },
+          "end": {
+            "line": 8,
+            "column": 14137
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_9ffa242f89782fd5c252f3abde7d5ddf1b3dafa9d63ad2819bf0016b3b6895ba",
+      "label": "frame-shell-replica-D0Xy7sOd.js:openReplica",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "frame-shell-replica-D0Xy7sOd.js",
+        "relationship_kind": "export",
+        "exported_name": "openReplica",
+        "local_name": "Pe",
+        "imported_name": "Pe",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-replica-D0Xy7sOd.js",
+          "start": {
+            "line": 1,
+            "column": 1314344
+          },
+          "end": {
+            "line": 1,
+            "column": 1314361
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_a2028ef36ce8de8d03e14d7d320184d705ac157af4a7d3ecff3e3354abba1b6d",
+      "label": "c43c83380-CChY_0mG.js:tagSessionForArtifact",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "tagSessionForArtifact",
+        "local_name": "K",
+        "imported_name": "K",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 15051
+          },
+          "end": {
+            "line": 1,
+            "column": 15077
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_ab8fadd8518aaab5a8d266a005438e701fbdc20c69d1b3c4510285c75b47e7b8",
+      "label": "c26621f4a-BCkxRv_i.js:artifactViewerUrl",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c26621f4a-BCkxRv_i.js",
+        "relationship_kind": "export",
+        "exported_name": "artifactViewerUrl",
+        "local_name": "A",
+        "imported_name": "A",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c26621f4a-BCkxRv_i.js",
+          "start": {
+            "line": 8,
+            "column": 14043
+          },
+          "end": {
+            "line": 8,
+            "column": 14065
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_ae1640230953499cbbb0426de254f014d794064341cff5f7d3ec43071380a06b",
+      "label": "cbf442711-DvEEkKDm.js:heldSessionLive",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "cbf442711-DvEEkKDm.js",
+        "relationship_kind": "export",
+        "exported_name": "heldSessionLive",
+        "local_name": "d",
+        "imported_name": "d",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "cbf442711-DvEEkKDm.js",
+          "start": {
+            "line": 1,
+            "column": 904
+          },
+          "end": {
+            "line": 1,
+            "column": 924
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_b38c21d7442786612306367b70c18f2d81288ef92ae2f41a6b7028717cc2331c",
+      "label": "c43c83380-CChY_0mG.js:getArtifactSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "getArtifactSession",
+        "local_name": "ge",
+        "imported_name": "ge",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14827
+          },
+          "end": {
+            "line": 1,
+            "column": 14851
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_b440b05c484e6ca641a9de3edc1f743b7c3cfa9e824c5c63caae004b07ca5a17",
+      "label": "c43c83380-CChY_0mG.js:archiveCoworkSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "archiveCoworkSession",
+        "local_name": "q",
+        "imported_name": "q",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14694
+          },
+          "end": {
+            "line": 1,
+            "column": 14719
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_ba4c5ccf538f33c5bebf04309291ad76487b06d960e3a01c661a61f052cadf7a",
+      "label": "c26621f4a-BCkxRv_i.js:sessionWatchCountForTests",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c26621f4a-BCkxRv_i.js",
+        "relationship_kind": "export",
+        "exported_name": "sessionWatchCountForTests",
+        "local_name": "Qt",
+        "imported_name": "Qt",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c26621f4a-BCkxRv_i.js",
+          "start": {
+            "line": 8,
+            "column": 14348
+          },
+          "end": {
+            "line": 8,
+            "column": 14379
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_bdd74338375526af654c497bb9fe786a07cef825b6f15a7b8f4b0ef4caf438ab",
+      "label": "c43c83380-CChY_0mG.js:resumableCodeSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "resumableCodeSession",
+        "local_name": "v",
+        "imported_name": "v",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 15001
+          },
+          "end": {
+            "line": 1,
+            "column": 15026
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_c21c8980d44718f09332b14eb8c054fa9a66799653881f8a509370f4aa8c141b",
+      "label": "c43c83380-CChY_0mG.js:renameSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "renameSession",
+        "local_name": "G",
+        "imported_name": "G",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14952
+          },
+          "end": {
+            "line": 1,
+            "column": 14970
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_cd89d084df8bef0b9d1c254e412f151ab53344549774280451d9b6ae90eb8073",
+      "label": "c43c83380-CChY_0mG.js:readWakeCreatedSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "readWakeCreatedSession",
+        "local_name": "ee",
+        "imported_name": "ee",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 14923
+          },
+          "end": {
+            "line": 1,
+            "column": 14951
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_d05c94ea8679bb2f3b84830762fcfa1a183e2c66db1ac76bb73603a6bba17c1e",
+      "label": "c43c83380-CChY_0mG.js:sessionHoldsEvent",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "sessionHoldsEvent",
+        "local_name": "we",
+        "imported_name": "we",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 15027
+          },
+          "end": {
+            "line": 1,
+            "column": 15050
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_e0ba1abac4e5313bff41b5d4f63dda89dc8f7ff109859bdefcf24c3553f537e8",
+      "label": "c43c83380-CChY_0mG.js:writeWakeCreatedSession",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c43c83380-CChY_0mG.js",
+        "relationship_kind": "export",
+        "exported_name": "writeWakeCreatedSession",
+        "local_name": "te",
+        "imported_name": "te",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 15078
+          },
+          "end": {
+            "line": 1,
+            "column": 15107
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_ed88c2814ada68fcc94cdd5723865fc2c50a5b269538d70da763fc30166dffe0",
+      "label": "c26621f4a-BCkxRv_i.js:SEEDED_SUMMON_ARTIFACT_PREFIX",
+      "properties": {
+        "semantic_role": "export-binding",
+        "module_path": "c26621f4a-BCkxRv_i.js",
+        "relationship_kind": "export",
+        "exported_name": "SEEDED_SUMMON_ARTIFACT_PREFIX",
+        "local_name": "j",
+        "imported_name": "j",
+        "declared_specifier": null
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c26621f4a-BCkxRv_i.js",
+          "start": {
+            "line": 8,
+            "column": 13880
+          },
+          "end": {
+            "line": 8,
+            "column": 13914
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    }
+  ],
+  "url_shaped_endpoint_candidates": [
+    {
+      "node_id": "jag_node_08557ac58d0b2bac893e907f8b242b3851ca237b969dda95e7b4ae295f039c7e",
+      "label": "/subscribe",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/subscribe",
+        "mechanism": "call:post"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-broker-HUDVMAJS.js",
+          "start": {
+            "line": 1,
+            "column": 23259
+          },
+          "end": {
+            "line": 1,
+            "column": 23321
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_17758f69127848976d5d0267dbefeb35952c453de073cb0f2bb386c5e9ae598f",
+      "label": "/api/account",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/api/account",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-DhOopBuD.js",
+          "start": {
+            "line": 1,
+            "column": 67571
+          },
+          "end": {
+            "line": 1,
+            "column": 67635
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_3248a6fda50d39b8af2dfaab9dedb5e7b6292b92656b061e2d67105624a84f30",
+      "label": "network endpoint",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/api/frame/telemetry",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-DhOopBuD.js",
+          "start": {
+            "line": 1,
+            "column": 35832
+          },
+          "end": {
+            "line": 1,
+            "column": 35947
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_384b147e51718fc1e90ecb52e4e64fcb5d2fc0d086babd4c6fa25777930bda96",
+      "label": "/api/account",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/api/account",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-broker-HUDVMAJS.js",
+          "start": {
+            "line": 2,
+            "column": 51072
+          },
+          "end": {
+            "line": 2,
+            "column": 51136
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_6c6b94ef7b82d358cbde0ff8d735ae2068ad9b1bb604b9d22fcacd0026198da8",
+      "label": "network endpoint",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/v1/code/sessions",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c43c83380-CChY_0mG.js",
+          "start": {
+            "line": 1,
+            "column": 9625
+          },
+          "end": {
+            "line": 1,
+            "column": 10314
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_706af4e06c69645b93785ec81e60f2971610e8bee2d655d3ca28f6bfdb23fd1f",
+      "label": "/api/account",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/api/account",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-chrome-C9gmiKHt.js",
+          "start": {
+            "line": 1,
+            "column": 52543
+          },
+          "end": {
+            "line": 1,
+            "column": 52607
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_ae6b91938ad5488e54fa4ce6204088be2f794907cc9c634405fb9fbec488cfac",
+      "label": "/api/account",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/api/account",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-deferred-Br0hC66Q.js",
+          "start": {
+            "line": 1,
+            "column": 123934
+          },
+          "end": {
+            "line": 1,
+            "column": 124015
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_cebb19c273d52aec3147176c5c83ea167212a7885dc9d47c680988d9f0820603",
+      "label": "network endpoint",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/api/slack_feedback",
+        "mechanism": "call:fetch"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "c08de09ec-CEJ2M4IN.js",
+          "start": {
+            "line": 1,
+            "column": 386
+          },
+          "end": {
+            "line": 1,
+            "column": 573
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    },
+    {
+      "node_id": "jag_node_d753ac31d8fd2b3780d1a7ed92fb16ffce6ed4d2ad75f58594229f68d4b5e919",
+      "label": "/call",
+      "properties": {
+        "endpoint_kind": "network",
+        "value": "/call",
+        "mechanism": "call:post"
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "source-range",
+          "source": "frame-shell-broker-HUDVMAJS.js",
+          "start": {
+            "line": 1,
+            "column": 23206
+          },
+          "end": {
+            "line": 1,
+            "column": 23234
+          }
+        }
+      },
+      "state": "observed",
+      "confidence": "exact"
+    }
+  ],
+  "unknowns": [
+    {
+      "node_id": "jag_node_f3ce1457cd5eb760778b99aa868326205e3edfc433f7033be35b691776f6ecbc",
+      "label": "vendor-frame-DaQ5k-Tx.js parse scope",
+      "properties": {
+        "analysis_status": "interrupted",
+        "path": "vendor-frame-DaQ5k-Tx.js",
+        "operation": "analyze-javascript-source",
+        "limitation": "vendor-frame-DaQ5k-Tx.js: Resource constraint during analyze_javascript_application: Owned JavaScript worker exhausted its heap while analyzing vendor-frame-DaQ5k-Tx.js during static",
+        "analysis_failure": {
+          "code": "resource_constraint",
+          "category": "resource_constraint",
+          "message": "Owned JavaScript worker exhausted its heap while analyzing vendor-frame-DaQ5k-Tx.js during static",
+          "retryable": false,
+          "remediation": {
+            "action": "Review the reported worker memory limits and available host memory. Retry with sufficient memory or a smaller artifact; REA retains tighter inherited limits."
+          },
+          "details": {
+            "operation": "analyze_javascript_application",
+            "resource": "memory",
+            "reason": "Owned JavaScript worker exhausted its heap while analyzing vendor-frame-DaQ5k-Tx.js during static",
+            "reported_limits": {
+              "worker_old_space_mb": 1024,
+              "worker_heap_limit_bytes": 1098907648,
+              "worker_timeout_ms": 120000
+            },
+            "captured_output": {
+              "stdout": "",
+              "stderr": "\n<--- Last few GCs --->\nnce start of marking 243 ms) (average mu = 0.373, cu[11965:0x997c00000]    49926 ms: Mark-Compact (reduce) 1023.2 (1042.9) -> 1021.9 (1043.2) MB, pooled: 0 MB, 238.33 / 0.00 ms  (+ 0.1 ms in 0 steps since start of marking, biggest step 0.0 ms, walltime since start of marking 241 ms) (average mu = 0.303, cu[11965:0x997c00000]    50224 ms: Mark-Compact 1022.9 (1043.2) -> 1021.5 (1046.4) MB, pooled: 0 MB, 296.46 / 0.00 ms  (average mu = 0.164, current mu = 0.003) allocation failure; scavenge might not succeed\n\n\n<--- JS stacktrace --->\n\nFATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory\n----- Native stack trace -----\n\n 1: 0x107d9c9fc node::OOMErrorHandler(char const*, v8::OOMDetails const&) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 2: 0x10730cb40 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, v8::OOMDetails const&) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 3: 0x1074a6900 v8::internal::Heap::CallGCPrologueCallbacks(v8::GCType, v8::GCCallbackFlags, v8::internal::GCTracer::Scope::ScopeId) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 4: 0x1074a46f0 v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 5: 0x10749d32c v8::internal::HeapAllocator::AllocateRawWithRetryOrFailSlowPath(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 6: 0x1074908fc v8::internal::Factory::NewFillerObject(int, v8::internal::AllocationAlignment, v8::internal::AllocationType, v8::internal::AllocationOrigin) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 7: 0x10771e1b4 v8::internal::Runtime_AllocateInYoungGeneration(int, unsigned long*, v8::internal::Isolate*) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 8: 0x106f2ddf4 Builtins_CEntry_Return1_ArgvOnStack_NoBuiltinExit [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n 9: 0x106e9bca8 Builtins_GrowFastSmiOrObjectElements [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n10: 0x1121384d4 \n11: 0x11168cd58 \n12: 0x112096340 \n13: 0x111f35e2c \n14: 0x11165ed8c \n15: 0x11214ef80 \n16: 0x1120ec064 \n17: 0x111b2b934 \n18: 0x11182b908 \n19: 0x106ed7724 Builtins_GeneratorPrototypeNext [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n20: 0x1117dba00 \n21: 0x106ed7724 Builtins_GeneratorPrototypeNext [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n22: 0x111b1a0c8 \n23: 0x106ed7724 Builtins_GeneratorPrototypeNext [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n24: 0x111ab5afc \n25: 0x106ed7724 Builtins_GeneratorPrototypeNext [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n26: 0x1117c8e7c \n27: 0x106ed7724 Builtins_GeneratorPrototypeNext [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n28: 0x1117c9f50 \n29: 0x106ed7724 Builtins_GeneratorPrototypeNext [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n30: 0x111f98acc \n31: 0x106ed5410 Builtins_AsyncFunctionAwaitResolveClosure [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n32: 0x106fa0f78 Builtins_PromiseFulfillReactionJob [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n33: 0x106ec56f4 Builtins_RunMicrotasks [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n34: 0x106e96af4 Builtins_JSRunMicrotasksEntry [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n35: 0x107424288 v8::internal::(anonymous namespace)::Invoke(v8::internal::Isolate*, v8::internal::(anonymous namespace)::InvokeParams const&) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n36: 0x1074249e4 v8::internal::(anonymous namespace)::InvokeWithTryCatch(v8::internal::Isolate*, v8::internal::(anonymous namespace)::InvokeParams const&) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n37: 0x10744b0fc v8::internal::MicrotaskQueue::PerformCheckpointInternal(v8::Isolate*) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n38: 0x1070538ec node::InternalCallbackScope::Close() [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n39: 0x107053e30 node::InternalMakeCallback(node::Environment*, v8::Local<v8::Object>, v8::Local<v8::Object>, v8::Local<v8::Function>, int, v8::Local<v8::Value>*, node::async_context, v8::Local<v8::Value>) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n40: 0x107054214 node::InternalMakeCallback(v8::Isolate*, v8::Local<v8::Object>, v8::Local<v8::Function>, int, v8::Local<v8::Value>*, node::async_context, v8::Local<v8::Value>) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n41: 0x1070bea34 node::Environment::CheckImmediate(uv_check_s*) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n42: 0x10460c24c uv__run_check [/opt/homebrew/Cellar/libuv/1.52.1/lib/libuv.1.0.0.dylib]\n43: 0x104606b94 uv_run [/opt/homebrew/Cellar/libuv/1.52.1/lib/libuv.1.0.0.dylib]\n44: 0x1070546cc node::SpinEventLoopInternal(node::Environment*) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n45: 0x1071679e8 node::NodeMainInstance::Run(node::ExitCode*, node::Environment*) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n46: 0x107167760 node::NodeMainInstance::Run() [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n47: 0x1070e4158 node::Start(int, char**) [/opt/homebrew/Cellar/node@22/22.22.3/lib/libnode.127.dylib]\n48: 0x18620c4e4 start [/usr/lib/dyld]\n",
+              "truncated": false,
+              "stderr_bytes": 5596,
+              "exit_code": null,
+              "signal": "SIGABRT"
+            }
+          }
+        }
+      },
+      "location": {
+        "available": true,
+        "value": {
+          "kind": "artifact-path",
+          "path": "vendor-frame-DaQ5k-Tx.js"
+        }
+      },
+      "state": "unavailable",
+      "confidence": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "source": "results-summary.json",
+    "gzip": "results-summary.json.gz",
+    "uncompressedBytes": 11358066,
+    "sha256": "8e04b087febf4e330505aad765d9feb6aad9ce07ea3b932676e7ae3c0f967ab3",
+    "originalLocalSha256": "7a0c29f5504d2dba19c18720d5cafa09ebdf67b880d3fb8e082b670eeb125d17",
+    "originalLocalBytes": 11360706,
+    "publicMachinePathsRedacted": true
+  },
+  {
+    "source": "canvas-analysis.stdout.json",
+    "gzip": "canvas-analysis.stdout.json.gz",
+    "uncompressedBytes": 49149495,
+    "sha256": "64a23e3d0354dbd381f20500d165c8083fd45908d29753c6190aef5b8465fc38",
+    "originalLocalSha256": "1a9aee06d629195aa1f530cf3cdf3e972a78854ab09cc833214dc7b2230477ee",
+    "originalLocalBytes": 49149615,
+    "publicMachinePathsRedacted": true
+  },
+  {
+    "source": "shell-analysis.stdout.json",
+    "gzip": "shell-analysis.stdout.json.gz",
+    "uncompressedBytes": 213123047,
+    "sha256": "8fd93b21aabf42810385d104f8faa8eceb7712ba87d7c063d3a959cf8f7a1231",
+    "originalLocalSha256": "b64388cb86272255b838ac9f1422f977439112777fda9b9eeda5e1a522b6a952",
+    "originalLocalBytes": 213123167,
+    "publicMachinePathsRedacted": true
+  }
+]

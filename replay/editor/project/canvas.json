@@ -1,0 +1,27 @@
+{
+  "v": 3,
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-19T10:00:00Z"
+  },
+  "title": "Files grid directions",
+  "launch": {
+    "view": "canvas"
+  },
+  "pages": [],
+  "boards": {
+    "Composed.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 1420,
+      "title": "Chosen \u00b7 A layout with D folders",
+      "expand": "fill"
+    }
+  },
+  "order": [
+    "Composed.dc.html"
+  ],
+  "notes": {},
+  "designSystems": []
+}

@@ -1,0 +1,6 @@
+{
+  "overwrittenDynamicResources": [
+    "https://claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js"
+  ],
+  "note": "仅Cloudflare动态外围脚本版本变化；设计项目与核心脚本无变化。"
+}

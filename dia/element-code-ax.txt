@@ -1,0 +1,109 @@
+The following is a diff from the previous accessibility tree for Window: "Files grid directions" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 142-146, 148-176, 259-273, 292-347, 732-744, 947-952, 987
+~											40 toggle button Artboard 1 of 1: Chosen · A layout with D folders, Value: 0
+~												139 row Chosen · A layout with D folders
++												1107 row (selected) group, “Local files / Atlas Redesi…”
++													1108 button Expand group “Local files / Atlas Redesi…”
++													1109 text group
++													1110 text “Local files / Atlas Redesi…”
++													1111 button Hide group “Local files / Atlas Redesi…”
++											1112 container
++												1113 text <div> “Local files / Atlas Redesi…”
++											1114 text entry area (settable) CSS and attributes, Placeholder: Nothing set on this element yet.Type  color: red;  to style it., Value: min-height: 100%;
+background: #ffffff;
+color: #1f1f1f;
+font-family: system-ui, -apple-system, 'SF Pro Text', sans-serif;
+-webkit-font-smoothing: antialiased;
++								1115 text group, “Local files / Atlas Redesi…” selected
+~											209 container Open Issues to view 4 issues: 4 possible improvements
+~												210 button Open Issues to view 4 issues: 4 possible improvements
++														1116 text 0 ms
++														1117 text 20,000 ms
++														1118 text 40,000 ms
++														1119 text 60,000 ms
++														1120 text 80,000 ms
++														1121 text 100,000 ms
++														1122 text 120,000 ms
++														1123 text 140,000 ms
++														1124 text 160,000 ms
++														1125 text 180,000 ms
++														1126 text 200,000 ms
++														1127 text 220,000 ms
+~												275 slider (settable) Right resizer, Value: 213,821 ms
++															1128 cell wss://claude.ai/api/frame/sync?slug=24f1e86e-af9c-437e-98c9-fcbdb46b17f9
++																1129 text sync?slug=24f1e86e-af9c-437e-98c9-fcbdb46b17f9
++															1130 cell 101 Switching Protocols
++																1131 text 101
++															1132 cell
++																1133 text websocket
++															1134 cell
++																1135 link frame-shell-deferred-Br0hC66Q.js:1, Help: https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js:1
++																	1136 text frame-shell-deferred-Br0hC66Q.js:1
++															1137 cell 0.0 kB transferred over network, resource size: 0.0 kB
++																1138 text 0.0 kB
++															1139 cell
++																1140 text Pending
++														1141 row
++															1142 cell
++																1143 image Image
++																1144 text data:image/svg+xml,…
++															1145 cell 200 OK
++																1146 text 200
++															1147 cell
++																1148 text svg+xml
++															1149 cell
++																1150 text Other
++															1151 cell Served from memory cache, resource size: 0.5 kB
++																1152 text (memory cache)
++															1153 cell
++																1154 text 0 ms
++														1155 row
++															1156 cell
++																1157 image Image
++																1158 text data:image/svg+xml,…
++															1159 cell 200 OK
++																1160 text 200
++															1161 cell
++																1162 text svg+xml
++															1163 cell
++																1164 text Other
++															1165 cell Served from memory cache, resource size: 0.5 kB
++																1166 text (memory cache)
++															1167 cell
++																1168 text 0 ms
++														1169 row
++															1170 cell
++																1171 image Image
++																1172 text data:image/svg+xml,…
++															1173 cell 200 OK
++																1174 text 200
++															1175 cell
++																1176 text svg+xml
++															1177 cell
++																1178 text Other
++															1179 cell Served from memory cache, resource size: 0.5 kB
++																1180 text (memory cache)
++															1181 cell
++																1182 text 0 ms
++														1183 row
++															1184 cell
++																1185 image Image
++																1186 text data:image/svg+xml,…
++															1187 cell 200 OK
++																1188 text 200
++															1189 cell
++																1190 text svg+xml
++															1191 cell
++																1192 text Other
++															1193 cell Served from memory cache, resource size: 0.5 kB
++																1194 text (memory cache)
++															1195 cell
++																1196 text 0 ms
++												1197 container 57 requests
++													1198 text 57 requests
++												1199 container 25912 B transferred over network
++													1200 text 25.9 kB transferred
++												1201 container 9537938 B resources loaded by the page
++													1202 text 9.5 MB resources
++					1203 text Network data available 
+The focused UI element is 1107 row (selected) group, “Local files / Atlas Redesi…”

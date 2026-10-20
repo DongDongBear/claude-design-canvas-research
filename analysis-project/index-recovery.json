@@ -1,0 +1,17 @@
+{
+  "source": "../project-files/index.html",
+  "sourceBytes": 74624,
+  "sourceSha256": "c60464ee918fc22cab2623f4f2ed283dd120935cbc1aed1a37f1b55b80660fe9",
+  "removedByteRange": [
+    100,
+    40548
+  ],
+  "removedBytes": 40448,
+  "startMarker": "<!-- frame-runtime -->",
+  "endMarker": "<!-- /frame-runtime -->",
+  "recoveredBytes": 34176,
+  "recoveredSha256": "15ea60ba6f7becf035af1d558c21ea534c6908aa1011f97b4381ee9df1d35646",
+  "expectedBytes": 34176,
+  "expectedSha256": "15ea60ba6f7becf035af1d558c21ea534c6908aa1011f97b4381ee9df1d35646",
+  "hashMatches": true
+}

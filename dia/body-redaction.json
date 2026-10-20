@@ -1,0 +1,37 @@
+{
+  "redactedFields": [
+    ".artifactLookup.token",
+    ".assetToken",
+    ".author.email",
+    ".capabilities.artifact.token",
+    ".capabilities.assets.token",
+    ".capabilities.db.token",
+    ".capabilities.sample.token",
+    ".capabilities.user.token",
+    ".consentToken",
+    ".handoffToken",
+    ".syncToken",
+    ".viewer.avatar_grant",
+    ".viewer.token"
+  ],
+  "modifiedFiles": [
+    "dia/dia-editing-initial.har",
+    "dia/resources/claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9__15d8a5d59c6b"
+  ],
+  "valuesPrinted": false,
+  "decodedHarBodyFieldsRedacted": [
+    "entries[1].assetToken",
+    "entries[1].syncToken",
+    "entries[1].consentToken",
+    "entries[1].handoffToken",
+    "entries[1].author.email",
+    "entries[1].capabilities.artifact.token",
+    "entries[1].capabilities.assets.token",
+    "entries[1].capabilities.db.token",
+    "entries[1].capabilities.sample.token",
+    "entries[1].capabilities.user.token",
+    "entries[1].artifactLookup.token",
+    "entries[1].viewer.token",
+    "entries[1].viewer.avatar_grant"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "canvas-analysis",
+  "argv": [
+    "/opt/homebrew/bin/node",
+    "<CAPTURE_ROOT>/analysis-rea/npm-package/package/scripts/rea.mjs",
+    "analyze-javascript-application",
+    "<CAPTURE_ROOT>/analysis-rea/inputs-canvas",
+    "--analysis-timeout-ms",
+    "120000",
+    "--format",
+    "json",
+    "--full-output"
+  ],
+  "cwd": "<CAPTURE_ROOT>/analysis-rea",
+  "started_at": "2026-10-20T10:45:59.513960+00:00",
+  "env_overrides": {
+    "TMPDIR": "<CAPTURE_ROOT>/analysis-rea/tmp",
+    "XDG_CACHE_HOME": "<CAPTURE_ROOT>/analysis-rea/cache",
+    "HUSKY": "0",
+    "npm_config_ignore_scripts": "true"
+  },
+  "exit_code": 0,
+  "duration_seconds": 58.38639179099118,
+  "stdout.json": {
+    "path": "<CAPTURE_ROOT>/analysis-rea/canvas-analysis.stdout.json",
+    "bytes": 49149615,
+    "sha256": "1a9aee06d629195aa1f530cf3cdf3e972a78854ab09cc833214dc7b2230477ee"
+  },
+  "stderr.txt": {
+    "path": "<CAPTURE_ROOT>/analysis-rea/canvas-analysis.stderr.txt",
+    "bytes": 2551,
+    "sha256": "27ebb6d566b3ea146ff24688f382fadea854ef3b68e2a036611b9328f83f60bd"
+  }
+}

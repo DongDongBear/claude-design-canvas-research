@@ -1,0 +1,38 @@
+The following is a diff from the previous accessibility tree for Window: "Files grid directions" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 138-141, 147, 1107-1140, 1197-1203
+~												135 tab (settable, integer) Code, Value: 0
+~												136 tab (selected) Tweaks, Value: 1
++											1197 text This design has no tweakable controls yet — describe what you want to adjust and Claude will add a tweaks panel for it. The controls appear here when it finishes.
++														1198 text 0 ms
++														1199 text 20,000 ms
++														1200 text 40,000 ms
++														1201 text 60,000 ms
++														1202 text 80,000 ms
++														1203 text 100,000 ms
++														1204 text 120,000 ms
++														1205 text 140,000 ms
++														1206 text 160,000 ms
++														1207 text 180,000 ms
++														1208 text 200,000 ms
++														1209 text 220,000 ms
++															1210 cell wss://claude.ai/api/frame/sync?slug=24f1e86e-af9c-437e-98c9-fcbdb46b17f9
++																1211 text sync?slug=24f1e86e-af9c-437e-98c9-fcbdb46b17f9
++															1212 cell 101 Switching Protocols
++																1213 text 101
++															1214 cell
++																1215 text websocket
++															1216 cell
++																1217 link frame-shell-deferred-Br0hC66Q.js:1, Help: https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js:1
++																	1218 text frame-shell-deferred-Br0hC66Q.js:1
++															1219 cell 0.0 kB transferred over network, resource size: 0.0 kB
++																1220 text 0.0 kB
++															1221 cell
++																1222 text Pending
++												1223 container 57 requests
++													1224 text 57 requests
++												1225 container 25912 B transferred over network
++													1226 text 25.9 kB transferred
++												1227 container 9537938 B resources loaded by the page
++													1228 text 9.5 MB resources
++					1229 text Network data available
+The focused UI element is 136 tab (selected) Tweaks, Value: 1

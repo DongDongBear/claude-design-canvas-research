@@ -1,0 +1,61 @@
+{
+  "method": "Babel parse only; no target execution",
+  "files": [
+    {
+      "file": "formatted/_transforms.BC793lKi.js",
+      "bytes": 56294,
+      "lines": 2118,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "formatted/_translate.DqxC5ek1.js",
+      "bytes": 10322,
+      "lines": 387,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "formatted/app.js",
+      "bytes": 6917936,
+      "lines": 205016,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "formatted/dc-runtime.js",
+      "bytes": 339219,
+      "lines": 11641,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "embedded-scripts/01-reactDomUmd-L60779.js",
+      "bytes": 250270,
+      "lines": 8630,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "embedded-scripts/02-supportJs-L61047.js",
+      "bytes": 70485,
+      "lines": 2327,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "embedded-scripts/03-string-L86812.js",
+      "bytes": 402025,
+      "lines": 13434,
+      "parse": "ok",
+      "sourceMappingURL": false
+    },
+    {
+      "file": "embedded-scripts/04-r-L105087.js",
+      "bytes": 75383,
+      "lines": 2442,
+      "parse": "ok",
+      "sourceMappingURL": false
+    }
+  ]
+}

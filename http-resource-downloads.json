@@ -1,0 +1,840 @@
+[
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"1caf4a8d7ac493faa2e66189e6914bc1\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 577303,
+    "sha256": "8fdf6372b2375fb8245d564ef7976db3df16cef5571235f2862dc286a79bf167"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"bacf7e5b16b29943f7424d318dd21d80\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 1163,
+    "sha256": "8de1cbd72f084ef0bccdb398507ed1fe97b748a074401bca9c0c18dab0d7c8af"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"7349c6c77cb60355a6b220b7517a1501\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 32343,
+    "sha256": "855f2c65111758a23fac4431040eb9b5f10788e0528b75af98cd2a0042f63826"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"ca8a4c66c8a87ce382a119ef7ed54ddb\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 1672931,
+    "sha256": "6e61a6b70fe16e1ea083737d866fa4457fe563d1cb53642add240408a82717dc"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"df714491fb322e3a15a3bd583ca4bc2e\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 259522,
+    "sha256": "d7f9b9d35642d3fb790809c8292d9acf496a295ce440d23e81734aa25cb0c52b"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"737ff6f490063343fa54ef2b8276e238\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 5276,
+    "sha256": "d5ac251afec3e99a9ec43c82aca503f6b6dd9792602bc2c3dcd07f36b3d53278"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"dbf78dbd401bfab2d453053179c9b879\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 3693,
+    "sha256": "102895f73a6774e39a9a1173090169bfe6fe26d63a85947557f26a4fe51beff0"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"364aefcb60122f92295a25a0cd665fee\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 511958,
+    "sha256": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"93576a5548f53b569885e843676dd37e\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 492455,
+    "sha256": "f2e5616eb7be651b923269a4ddd89aaeb0dfe99817ce51376de56e8fa9adf537"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"18a8016be198f0801a6a615a95abc50f\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 158882,
+    "sha256": "e58e3601f24241c5c28b80cf99b6db3ba2b6c5cf4696fba028891112192cc0b2"
+  },
+  {
+    "url": "https://claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "headers": {
+      "Content-Type": "application/javascript; charset=UTF-8",
+      "cache-control": "max-age=14400, stale-if-error=10800, stale-while-revalidate=10800, public"
+    },
+    "bytes": 26290,
+    "sha256": "df320180e102359a00aca1e053fec05ccc01161b81baf120ccc245804ddfc0a3"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 6004,
+    "sha256": "3634c599ed8d66505fe541a993baf6543ed6dca1855b0d81a357b5a4accec1ae"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 37941,
+    "sha256": "21375c3ce3b3cefd37cf203cec8cba30d4bae2a8b49a9ee1505cdbe3330c68cb"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=0, s-maxage=300, must-revalidate, no-transform",
+      "etag": "W/\"a-b280398b04e28105f07ba8f2\"",
+      "content-security-policy": "default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "status": 200,
+    "mimeType": "text/css",
+    "headers": {
+      "Content-Type": "text/css; charset=utf-8",
+      "Cache-Control": "public, max-age=0, s-maxage=300, must-revalidate, no-transform",
+      "etag": "W/\"a-448f9ee719b51254a3e09615\"",
+      "content-security-policy": "default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 481552,
+    "sha256": "471ea680e9469e7a18cc3ab628c63e282bbab26065d21d6baf22ba79be6d9bf0"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=0, s-maxage=300, must-revalidate, no-transform",
+      "etag": "W/\"a-6913dc7a24735bb2560f7a13\"",
+      "content-security-policy": "default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10"
+  },
+  {
+    "url": "https://claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9?via=user_open&bk=initial&actor=id&vt=1",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9__7855fe7c59ea",
+    "error": "HTTP Error 403: Forbidden",
+    "redactedQueryFields": [
+      "org"
+    ]
+  },
+  {
+    "url": "https://claude.ai/images/artifact-icons/glyphs.svg?v=1uaixo0",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/claude.ai/images/artifact-icons/glyphs.svg__6f68443d809f",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "headers": {
+      "Content-Type": "image/svg+xml",
+      "Cache-Control": "public, max-age=86400, stale-while-revalidate=604800",
+      "ETag": "\"789d310307bbecedfb216bc151192773\""
+    },
+    "bytes": 74007,
+    "sha256": "0fc4d1a8924467f609f09bad4c7dcf09e774d84c5d2554b7dac24b4a560488f7"
+  },
+  {
+    "url": "https://claude.ai/favicon.ico",
+    "source": "browser-observed",
+    "method": "anonymous-https",
+    "path": "assets/claude.ai/favicon.ico",
+    "status": 200,
+    "mimeType": "image/vnd.microsoft.icon",
+    "headers": {
+      "Content-Type": "image/vnd.microsoft.icon",
+      "Cache-Control": "public, max-age=86400, stale-while-revalidate=604800",
+      "ETag": "\"688438ed691d2cc37ecbeeb479023d4c\""
+    },
+    "bytes": 2445,
+    "sha256": "525d5c063365f7656ba0fe8b9165742c4874e70852d9bed7153b6faca8663a02"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c0f671921-cvFTkbeX.woff2",
+    "source": "browser-inventory",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c0f671921-cvFTkbeX.woff2",
+    "status": 200,
+    "mimeType": "font/woff2",
+    "headers": {
+      "Content-Type": "font/woff2",
+      "etag": "\"bb0f85299006c433518286c966240627\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 102544,
+    "sha256": "35ad223d8dd4a8d4e9c2b8503ae9aca977f93bb52a5bd64c365cb9110d24e2cf"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cc27851ad-DDVos-BJ.woff2",
+    "source": "browser-inventory",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cc27851ad-DDVos-BJ.woff2",
+    "status": 200,
+    "mimeType": "font/woff2",
+    "headers": {
+      "Content-Type": "font/woff2",
+      "etag": "\"7a850d86ff15b9b0492932b4ba1683fa\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 118172,
+    "sha256": "542f0e8bf7a27f2300f4cfb4b8ad168bc4cf7dc1eeeb8471cac66802f58e137c"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/ce0b4c6c4-DYg9-Do-.js",
+    "source": "frame-shell-chrome-C9gmiKHt.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/ce0b4c6c4-DYg9-Do-.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"199974bca386cfab39fe03f9c44a98a7\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 5033,
+    "sha256": "d36a1940aea25bd47d4b11e3075f2666bdab57e58ee94feceec1cbadfa30babc"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c43c83380-CChY_0mG.js",
+    "source": "frame-shell-chrome-C9gmiKHt.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c43c83380-CChY_0mG.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"13cea36d2a488c8c3fde73de4f2beec8\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 15109,
+    "sha256": "86132c19c961ecfb8b6a2f4b859c0f47f2a822c3b463acb7347564631b231f32"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cbf442711-DvEEkKDm.js",
+    "source": "frame-shell-chrome-C9gmiKHt.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cbf442711-DvEEkKDm.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"199864287fdc2a61ba82d057ec428cb2\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 969,
+    "sha256": "7cf911db0e25bd263171708f82527c166cf11706b85d2f32dbfcdf75b212f9a7"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c26621f4a-BCkxRv_i.js",
+    "source": "frame-shell-chrome-C9gmiKHt.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c26621f4a-BCkxRv_i.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"bcdda2d5cfb8adf7bf930acc84d68363\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 63894,
+    "sha256": "0382ce34010d9548cfbf05a97a4722bf23383ccb87fceaf53551e99a4322e4e7"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c08de09ec-CEJ2M4IN.js",
+    "source": "frame-shell-chrome-C9gmiKHt.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c08de09ec-CEJ2M4IN.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"4740060a7b49a136b8f77912525266a0\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 984,
+    "sha256": "5f9e37cb432527dd74487f6c631ecb807b3c814dd951ab68dcd61649943ab420"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-replica-D0Xy7sOd.js",
+    "source": "frame-shell-deferred-Br0hC66Q.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-replica-D0Xy7sOd.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"00a3da045bb809bd33cfedbb620b318c\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 1314400,
+    "sha256": "5be9b2f31b8e1e29bceb1ac09052daa98615aa9e93bc7683a54f1dfe3689fe10"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-dictate-DuZeGejU.js",
+    "source": "frame-shell-deferred-Br0hC66Q.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-dictate-DuZeGejU.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"3714a0e8ffcc1aae404c2cb5fa7e751a\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 1449,
+    "sha256": "a968284e4147ceef8c4dd6d9dfb4b64188253d36fff28d5b96feae89de4af758"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-speak-XVWBr-Y8.js",
+    "source": "frame-shell-deferred-Br0hC66Q.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-speak-XVWBr-Y8.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"51c107a75546912cdeeb1a899ffff175\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 2538,
+    "sha256": "18802c2753024a61ab8ca47f37a6de3f06bcb476b17c58103b0c885267326ab8"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c86ccec3d-B5gmtuVF.js",
+    "source": "shared-frame-CIAC0KKy.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c86ccec3d-B5gmtuVF.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"3ff6082f28d7a029e65102b7c774a8e2\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 29243,
+    "sha256": "c32b264a577d73b20dd8e31de0bc766355a7f727b5e0118bdcdbdcf2a038d71d"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf2613ee5-CgpXKaa3.js",
+    "source": "shared-frame-CIAC0KKy.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf2613ee5-CgpXKaa3.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"82809ea54361cb7b1d22f5c4fdf2a3af\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 163154,
+    "sha256": "8367b885f95b1a3b96b47ebec92e66ee1477a22fadf4edd71bf5575a2de7572a"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/artifact.C83eZcTi.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/artifact.C83eZcTi.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 121387,
+    "sha256": "157cd49671b36520c04c4b46d9bfbeaf0b858dd3554b65ea6331c159b2a37962"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/assets.DOAjpBS9.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/assets.DOAjpBS9.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 4727,
+    "sha256": "2e615e8917d0c4a2b045340db7fa8b6910f89ad5b2005beaa4f603f242fc9c86"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/comments.CFMy0ayq.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/comments.CFMy0ayq.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 21105,
+    "sha256": "b76478ddf3307b4c9d239e9ea283456e76aeb762cfd640a14a95249baf72132f"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/db.zFlAA4qL.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/db.zFlAA4qL.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 13129,
+    "sha256": "e413fa385a96e2ac9c1ab30165ccffed844e9f85f2736e5e6c5f2b108434c14d"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/dictation.f3j7VXQ8.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/dictation.f3j7VXQ8.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 3656,
+    "sha256": "3292fb677b8a5b80191070feb987ffbe0e65bd7d586744018d6cc130c7419757"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/downloads.axDW2QAi.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/downloads.axDW2QAi.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 3425,
+    "sha256": "402a10d8cd13778e94a09ef277fae3d67798d72b238704ebe5a5b400a62b2279"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/embed.SWCZLzn6.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/embed.SWCZLzn6.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 10363,
+    "sha256": "a7e32d95154ba83bb63197c18948cd82be0f3525df1e4e825bab31525c7aa9ca"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/endpoints.BPfoKaE1.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/endpoints.BPfoKaE1.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 6509,
+    "sha256": "f4cb3eed143b775a6ca88052f5ac0e744d581ba4811d7df4252a1d9732d3cf25"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/files.IkpCjcgM.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/files.IkpCjcgM.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 6643,
+    "sha256": "8f05470652064f8e4be55eb0018a83060bcf8c327a70d14afa1e5ef989934885"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/mcp.kl0G36TA.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/mcp.kl0G36TA.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 8552,
+    "sha256": "4f62d370ec3ecee8f60806b7b67b74d447568e505525ef186ec2f2465817c356"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/network.B5UA9Su4.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/network.B5UA9Su4.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 323,
+    "sha256": "0b485c756e443e0ec4d597bc713315a813fd582ad0f4e50eeabc2378a0c08502"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/paste.DeKNLIxx.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/paste.DeKNLIxx.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 2497,
+    "sha256": "989f95e0185bed166cd016141c9e176be977fbc005f6825f651213a184e44d29"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/permissions.6yWoDecA.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/permissions.6yWoDecA.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 5203,
+    "sha256": "85c5ae84edaf065d7af8ed1906fd2788048151375db57235379cdd0a940993b5"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/reads.Bgov9hIw.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/reads.Bgov9hIw.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 10218,
+    "sha256": "2fb889b7a3c20aa4b8e56e25239d4bf0e69002319e9ffb5d8f0733298e6d341f"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/room.BYRHiLCc.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/room.BYRHiLCc.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 20053,
+    "sha256": "3753392f7569ea41438514a0ab20a636bca4903587ebfc350966cedec6bc157c"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/sample.D5wHJkl_.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/sample.D5wHJkl_.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 23358,
+    "sha256": "e617f8696e27f46f66c59b8a78ac738ae871b82d4573ee7848f6f8a13208a26e"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/tts.iS74i_mi.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/tts.iS74i_mi.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 5169,
+    "sha256": "6395305364c24f40412fa776411e0f57ae76fc4d64b0d929c842ab916766b9fe"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/user.uKicftX-.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/user.uKicftX-.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 7249,
+    "sha256": "f2a8300c80cc5a714bba4d8753679f8f61d10cc220ef9b293b38a2d91e9b2b1b"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_comments.DjA5rMIh.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_comments.DjA5rMIh.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 52634,
+    "sha256": "7f3070aa12a33e7b6389504550afc1e0dd3bc14eb9733563d2db9a742b8955f4"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_ldx.B4FSryPi.js",
+    "source": "canvas-dom.html __FRAME_PREAMBLE",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_ldx.B4FSryPi.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript; charset=utf-8",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 4865,
+    "sha256": "87d986cefaf5620b8abc05a6c27f4a6fdebedf25c7af43c8b670da05eae8237c"
+  },
+  {
+    "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "source": "resource-tree-document",
+    "method": "anonymous-https",
+    "path": "assets/claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+    "status": 200,
+    "mimeType": "text/html",
+    "headers": {
+      "Content-Type": "text/html",
+      "Cache-Control": "private, no-store",
+      "Content-Security-Policy": "frame-ancestors 'self' chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf; frame-src https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com; script-src 'nonce-A3G11Sd4NYr52DEOB+ZLKQ==' 'self' 'wasm-unsafe-eval' a-cdn.claude.ai assets.claude.ai assets-proxy.anthropic.com a-cdn.anthropic.com s-cdn.anthropic.com; style-src 'nonce-A3G11Sd4NYr52DEOB+ZLKQ=='; connect-src 'self' https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com; base-uri 'none'; object-src 'none'; form-action 'none'"
+    },
+    "bytes": 31814,
+    "sha256": "b50643449a3ba2d93e5e6c7de2e269d37c5c27392f64b6ced8600bb6e483cc5d"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+    "source": "resource-tree-document",
+    "method": "anonymous-https",
+    "path": "assets/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/index.html__b1fc26e6dd2f",
+    "status": 200,
+    "mimeType": "text/html",
+    "headers": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "public, max-age=0, s-maxage=300, must-revalidate, no-transform",
+      "etag": "W/\"c-ef4f9c39022e8d1ea495e657\"",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 74624,
+    "sha256": "c60464ee918fc22cab2623f4f2ed283dd120935cbc1aed1a37f1b55b80660fe9"
+  },
+  {
+    "url": "https://fonts.frame.claudeusercontent.com/_runtime/AnthropicSans-Roman-Variable-26-179-2.542f0e8bf7a27f23.woff2",
+    "source": "resource-tree",
+    "method": "anonymous-https",
+    "path": "assets/fonts.frame.claudeusercontent.com/_runtime/AnthropicSans-Roman-Variable-26-179-2.542f0e8bf7a27f23.woff2",
+    "status": 200,
+    "mimeType": "font/woff2",
+    "headers": {
+      "Content-Type": "font/woff2",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+    },
+    "bytes": 118172,
+    "sha256": "542f0e8bf7a27f2300f4cfb4b8ad168bc4cf7dc1eeeb8471cac66802f58e137c"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c6cf8f08a-Ds5FxXhE.js",
+    "source": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-dictate-DuZeGejU.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c6cf8f08a-Ds5FxXhE.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"218c352a33a9eda36780160a1fb2c025\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 73458,
+    "sha256": "8beee429b27415ed466846f573eb220a5c8e7a787bd18158b0a543ade08270e7"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf66d5828-CgTIRaiA.js",
+    "source": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-speak-XVWBr-Y8.js",
+    "method": "anonymous-https",
+    "path": "assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf66d5828-CgTIRaiA.js",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "headers": {
+      "Content-Type": "text/javascript",
+      "etag": "\"5da364e88ba4681d3d7578d7b4c6ea67\"",
+      "Cache-Control": "public,max-age=31536000,immutable"
+    },
+    "bytes": 60196,
+    "sha256": "24a0973ea93c6d5fd3eb1d257f6e3347d0c400566df0ec2fc40aa8369eed305b"
+  }
+]

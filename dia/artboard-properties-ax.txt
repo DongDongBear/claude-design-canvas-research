@@ -1,0 +1,52 @@
+The following is a diff from the previous accessibility tree for Window: "Files grid directions" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 160-161, 210-221, 694-706, 894-905, 940
+~										36 toggle button Properties, Value: 1
+~											40 toggle button Artboard 1 of 1: Chosen · A layout with D folders, Value: 1
++										1060 container
++											1061 tab group Panel view
++												1062 tab (selected) Properties, Value: 1
++												1063 tab (settable, integer) Code, Value: 0
++												1064 tab (settable, integer) Tweaks, Value: 0
++											1065 button Close properties
++											1066 outline Layers
++												1067 row (selected) Chosen · A layout with D folders
++													1068 button Collapse Chosen · A layout with D folders
++													1069 text Chosen · A layout with D folders
++												1070 row group, “Local files / Atlas Redesi…”
++													1071 button Expand group “Local files / Atlas Redesi…”
++													1072 text group
++													1073 text “Local files / Atlas Redesi…”
++													1074 button Hide group “Local files / Atlas Redesi…”
++											1075 splitter (settable, float) Resize layers list, Value: 168
++											1076 heading Artboard, Value: 3
++												1077 text Artboard
++											1078 text Width
++											1079 number field (settable) Artboard width, Value: 1280
++											1080 text px Height
++											1081 number field (settable) Artboard height, Value: 1420
++											1082 text px
++											1083 pop up button Height actions
++											1084 text Print mode
++											1085 (settable) Print mode
++												1086 radio button (settable, integer) Flow, Value: 0
++												1087 radio button (settable, integer) Fixed, Value: 1
++											1088 container Not set — currently Letter (from the frame’s shape or your locale)
++												1089 text Paper
++												1090 (settable) Paper
++													1091 radio button (settable, integer) Letter, Value: 0
++													1092 radio button (settable, integer) A4, Value: 0
++											1093 heading Appearance, Value: 3
++												1094 text Appearance
++											1095 text Background
++											1096 button Unset Background (use inherited)
++											1097 pop up button Background: #FFFFFF
++											1098 text Radius
++											1099 number field (settable) Radius, Value: 0
++											1100 text px
++											1101 toggle button Edit radius per corner, Value: 0
++											1102 heading Layout guide, Value: 3
++												1103 text Layout guide
++											1104 pop up button Add layout guide
++											1105 splitter (settable, float) Resize properties panel, Value: 312, Details: 312 pixels wide
++										1106 container
++											1107 

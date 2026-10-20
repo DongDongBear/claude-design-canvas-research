@@ -1,0 +1,30 @@
+[
+  {
+    "name": "reactDomUmd",
+    "start": 60779,
+    "end": 61046,
+    "bytes": 131835,
+    "path": "embedded-scripts/01-reactDomUmd-L60779.js"
+  },
+  {
+    "name": "supportJs",
+    "start": 61047,
+    "end": 61095,
+    "bytes": 45305,
+    "path": "embedded-scripts/02-supportJs-L61047.js"
+  },
+  {
+    "name": "string",
+    "start": 86812,
+    "end": 86817,
+    "bytes": 242544,
+    "path": "embedded-scripts/03-string-L86812.js"
+  },
+  {
+    "name": "r",
+    "start": 105087,
+    "end": 105087,
+    "bytes": 47268,
+    "path": "embedded-scripts/04-r-L105087.js"
+  }
+]

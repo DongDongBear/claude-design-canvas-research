@@ -1,0 +1,113 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "bytes": 661,
+    "sha256": "4b13926c1428ea3d56cc55598c658b27601fab2bb4c6ade6605130dc707962a9",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/editor/",
+    "status": 200,
+    "bytes": 34313,
+    "sha256": "907d6b9da548011370b856835b9634c70a8c40b7601a5a26e172a68cd257cfd8",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/editor/_files.json",
+    "status": 200,
+    "bytes": 3856,
+    "sha256": "64d3025f868274ee6c0d3a298e1a74e651cc383c7d8e676baa7eeebe8321d2d6",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/editor/artifact-type/app.js",
+    "status": 200,
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/editor/artifact-type/dc-runtime.js",
+    "status": 200,
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/leaf/Composed.dc.html",
+    "status": 200,
+    "bytes": 23876,
+    "sha256": "9b0e45beacd42c1088e76bec223e51b38505f3acbfaf0479d9c01ee4c6ebf991",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/leaf/support.js",
+    "status": 200,
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "path": "/__replay/health",
+    "status": 200,
+    "bytes": 99,
+    "sha256": "2085579b9664f9de01026bb0ccd080353a8552f0c538e3b8ce2f70f27a57d3fe",
+    "csp": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'"
+  },
+  {
+    "action": "publish-create",
+    "status": 200,
+    "result": {
+      "version": "replay-1",
+      "seq": 1,
+      "shas": {
+        "project/ReplaySmoke.txt": "a031e9cf8b98eac4d1ca3d42d1597c129f56a6c74758075f708c6f1da9e6e6f0"
+      },
+      "changed": [
+        {
+          "path": "project/ReplaySmoke.txt",
+          "sha256": "a031e9cf8b98eac4d1ca3d42d1597c129f56a6c74758075f708c6f1da9e6e6f0"
+        }
+      ]
+    }
+  },
+  {
+    "action": "reject-stale-ifMatch",
+    "status": 409,
+    "result": {
+      "code": "conflict",
+      "message": "本机文件版本已改变",
+      "paths": [
+        {
+          "path": "project/ReplaySmoke.txt",
+          "actual": "a031e9cf8b98eac4d1ca3d42d1597c129f56a6c74758075f708c6f1da9e6e6f0",
+          "expected": "0000000000000000000000000000000000000000000000000000000000000000"
+        }
+      ]
+    }
+  },
+  {
+    "action": "publish-delete",
+    "status": 200,
+    "result": {
+      "version": "replay-2",
+      "seq": 2,
+      "shas": {},
+      "changed": [
+        {
+          "path": "project/ReplaySmoke.txt",
+          "sha256": null
+        }
+      ]
+    }
+  },
+  {
+    "action": "reject-traversal",
+    "status": 400,
+    "result": {
+      "code": "invalid_content",
+      "message": "只允许 project/ 内的普通相对路径"
+    }
+  }
+]

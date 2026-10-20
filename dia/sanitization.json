@@ -1,0 +1,15 @@
+{
+  "inputEntries": 44,
+  "retainedEntries": 38,
+  "removedPaths": [
+    "/api/account",
+    "/api/organizations/[REDACTED]/members/display_info",
+    "/api/frame/page-health/24f1e86e-af9c-437e-98c9-fcbdb46b17f9",
+    "/api/frame/track",
+    "/api/frame/telemetry",
+    "/api/frame/track"
+  ],
+  "requestBodiesRemoved": true,
+  "credentialHeadersRemoved": true,
+  "responseBodiesRetainedOnlyForTargetResources": true
+}

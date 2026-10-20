@@ -1,0 +1,292 @@
+{
+  "truncated": true,
+  "events": [
+    {
+      "sequence": 190,
+      "requestId": "94368.71",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Font",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cc27851ad-DDVos-BJ.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable",
+        "content-type": "font/woff2",
+        "etag": "\"7a850d86ff15b9b0492932b4ba1683fa\"",
+        "last-modified": "Mon, 29 Jun 2026 18:12:57 GMT"
+      }
+    },
+    {
+      "sequence": 195,
+      "requestId": "94368.72",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Font",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c0f671921-cvFTkbeX.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable",
+        "content-type": "font/woff2",
+        "etag": "\"bb0f85299006c433518286c966240627\"",
+        "last-modified": "Tue, 13 Oct 2026 15:18:53 GMT"
+      }
+    },
+    {
+      "sequence": 200,
+      "requestId": "94368.73",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"424f7b16b54ed7f8c5ea7ff76556bbe7\"",
+        "last-modified": "Tue, 20 Oct 2026 09:15:01 GMT"
+      }
+    },
+    {
+      "sequence": 205,
+      "requestId": "94368.74",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"b9046c661b0c0d6d7f82203c3ca667ea\"",
+        "last-modified": "Wed, 14 Oct 2026 21:14:31 GMT"
+      }
+    },
+    {
+      "sequence": 210,
+      "requestId": "94368.75",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"d225147099e5939b172c21af72a61bd3\"",
+        "last-modified": "Mon, 19 Oct 2026 05:11:45 GMT"
+      }
+    },
+    {
+      "sequence": 215,
+      "requestId": "94368.76",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"f03b4d533c84e39d450fd3f002c2a406\"",
+        "last-modified": "Tue, 20 Oct 2026 09:14:54 GMT"
+      }
+    },
+    {
+      "sequence": 220,
+      "requestId": "94368.77",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"162347f2be60e7cce545353d2d6dcd1b\"",
+        "last-modified": "Tue, 20 Oct 2026 05:13:06 GMT"
+      }
+    },
+    {
+      "sequence": 225,
+      "requestId": "94368.78",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"43a467af43ce965898d2373c3ffe4ea9\"",
+        "last-modified": "Wed, 14 Oct 2026 21:14:39 GMT"
+      }
+    },
+    {
+      "sequence": 230,
+      "requestId": "94368.79",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"99445b9dd4e07264d2736bb3a61ae182\"",
+        "last-modified": "Tue, 20 Oct 2026 05:13:05 GMT"
+      }
+    },
+    {
+      "sequence": 235,
+      "requestId": "94368.80",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"c2974ee99750f434a9e6cd479dfcfb3e\"",
+        "last-modified": "Tue, 20 Oct 2026 05:13:05 GMT"
+      }
+    },
+    {
+      "sequence": 240,
+      "requestId": "94368.81",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"fb8588ae83b3b1543974f1706708d704\"",
+        "last-modified": "Tue, 20 Oct 2026 05:13:14 GMT"
+      }
+    },
+    {
+      "sequence": 245,
+      "requestId": "94368.82",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Script",
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "headers": {
+        "cache-control": "public,max-age=31536000,immutable,no-transform",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"d26af4d695a7db361ef6b0ef7be5ec14\"",
+        "last-modified": "Tue, 20 Oct 2026 05:13:17 GMT"
+      }
+    },
+    {
+      "sequence": 491,
+      "requestId": "F13FA45C871E8E504ABAE277DCD3ED1D",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Document",
+      "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_warmup",
+      "status": 200,
+      "mimeType": "text/html",
+      "headers": {
+        "cache-control": "no-store",
+        "content-security-policy": "default-src 'none'; base-uri 'none'; form-action 'none'; webrtc 'block'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf",
+        "content-type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "sequence": 513,
+      "requestId": "94368.84",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Fetch",
+      "url": "https://claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9?via=user_open&bk=initial&actor=id&vt=1",
+      "status": 200,
+      "mimeType": "application/json",
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json"
+      },
+      "redactedQueryFields": [
+        "org"
+      ]
+    },
+    {
+      "sequence": 529,
+      "requestId": "94368.140",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Fetch",
+      "url": "https://claude.ai/images/artifact-icons/glyphs.svg?v=1uaixo0",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "headers": {
+        "cache-control": "public, max-age=86400, stale-while-revalidate=604800",
+        "content-type": "image/svg+xml",
+        "etag": "W/\"789d310307bbecedfb216bc151192773\""
+      }
+    },
+    {
+      "sequence": 548,
+      "requestId": "94368.139",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Other",
+      "url": "https://claude.ai/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "headers": {
+        "cache-control": "public, max-age=86400, stale-while-revalidate=604800",
+        "content-type": "image/vnd.microsoft.icon",
+        "etag": "W/\"688438ed691d2cc37ecbeeb479023d4c\""
+      }
+    },
+    {
+      "sequence": 557,
+      "requestId": "2D738BE9768969B30CC217BE5E291A74",
+      "source": {
+        "tabId": 1
+      },
+      "type": "Document",
+      "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+      "status": 200,
+      "mimeType": "text/html",
+      "headers": {
+        "cache-control": "public, max-age=0, s-maxage=300, must-revalidate, no-transform",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net/pyodide/ https://cdn.jsdelivr.net/gh/python-visualization/ https://cdn.jsdelivr.net/npm/ https://cdn.tailwindcss.com https://code.jquery.com https://unpkg.com https://cdn.plot.ly; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: blob:; font-src 'self' data: blob: https://fonts.gstatic.com https://fonts.frame.claudeusercontent.com; media-src 'self' data: blob:; connect-src 'self' blob: https://fonts.googleapis.com https://fonts.gstatic.com; worker-src 'self' blob:; form-action 'self'; frame-src 'self' blob: data:; object-src 'none'; webrtc 'block'; base-uri 'self'; frame-ancestors 'self' https://claude.ai https://*.claude.ai chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf",
+        "content-type": "text/html; charset=utf-8",
+        "etag": "\"c-ef4f9c39022e8d1ea495e657\""
+      }
+    }
+  ]
+}

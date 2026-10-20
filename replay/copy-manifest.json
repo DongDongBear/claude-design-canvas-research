@@ -1,0 +1,154 @@
+[
+  {
+    "path": "editor/SKILL.md",
+    "bytes": 16042,
+    "sha256": "01985a5e4de1adf4220f292e545f305209f8de2c162cdf3570ccec1d0f0a6bd2",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/app.css",
+    "bytes": 481552,
+    "sha256": "471ea680e9469e7a18cc3ab628c63e282bbab26065d21d6baf22ba79be6d9bf0",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/app.js",
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/dc-runtime.js",
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/fast-edit-worker.js",
+    "bytes": 983903,
+    "sha256": "18e7e4395b5e25f4a482f14c74fa91959d4772ce7ca3a23411abeb1505efc8b1",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/fonts/AnthropicSans-Roman-Variable-26-179-2.542f0e8bf7a27f23.woff2",
+    "bytes": 118172,
+    "sha256": "542f0e8bf7a27f2300f4cfb4b8ad168bc4cf7dc1eeeb8471cac66802f58e137c",
+    "kind": "downloaded-font-copy"
+  },
+  {
+    "path": "editor/artifact-type/fonts/anthropicons-fizzy-lake.woff2",
+    "bytes": 25432,
+    "sha256": "ce9b1f9c6093e1adf13f28163825bb44dae246dfe2ff2f4ea32c45570746b043",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/brand-colors.md",
+    "bytes": 2234,
+    "sha256": "f451f1e68b640f2bbe4d15420339ddcb7a84595cb7d12e888caa1a6bd5bd4b3a",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/brand-typography.md",
+    "bytes": 1534,
+    "sha256": "d3aa7f635e355d674680a54fe305d4efc66463c25ec04e0a1243f8937a9ece20",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/craft.md",
+    "bytes": 15978,
+    "sha256": "fe43de97c87c5488557f3a01028a9d9332a23c0629cd55dae42ec6b3c202b08d",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/design-system-components.md",
+    "bytes": 12348,
+    "sha256": "be6d36c90371cd28dccc509d4e1cf7bd65f1b8253de8cd4d084123303dcebdb7",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/diagrams.md",
+    "bytes": 9638,
+    "sha256": "c5747e7ab8d8bd04e7ac484f10be02728b9f8f2df1c024024d1d218be9bb20a7",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/format.md",
+    "bytes": 11295,
+    "sha256": "b509b31cc2db41a7ddc247f67b164c0f6f755e3f07d909ad3baf20a27718b771",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/google-fonts-families.json",
+    "bytes": 26440,
+    "sha256": "82a204043c9adf9d3134fa1850513921b4269a3358671a2d6d8831f447b2ed4c",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/google-fonts-notices.json",
+    "bytes": 60582,
+    "sha256": "b764de9e3b7a62974d60604d0a051a014a9a8e070001835a0964782473b6af64",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/google-fonts-reserved.json",
+    "bytes": 7403,
+    "sha256": "ce9fc8edddf7222dab49edbdae00b8f7f2bc9c99c8832648e61dd93a0140f9be",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/print.md",
+    "bytes": 5443,
+    "sha256": "ed7b2b2c069c0fb164201afe15041158f2c5427bed2cb6c25a84876d51ac0253",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/questions.md",
+    "bytes": 4419,
+    "sha256": "34139a6b25e7b6048b8c98afbb7892116c9c3dc7369f22b5cf9c88d06cab108e",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/reference/view-state.md",
+    "bytes": 8779,
+    "sha256": "2b40c2de9bda3130f15d5c4fb5ec8529224d2eea8bf7df6426205dd52bbcb87c",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/artifact-type/thumbnail/thumbnail.json",
+    "bytes": 359,
+    "sha256": "eb391285e03f9f372be5219759be433cebeee2deda20841593a06f050c3fbb9c",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/index.html",
+    "bytes": 34313,
+    "sha256": "907d6b9da548011370b856835b9634c70a8c40b7601a5a26e172a68cd257cfd8",
+    "kind": "rewritten-copy"
+  },
+  {
+    "path": "editor/project/Composed.dc.html",
+    "bytes": 23876,
+    "sha256": "9b0e45beacd42c1088e76bec223e51b38505f3acbfaf0479d9c01ee4c6ebf991",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "editor/project/canvas.json",
+    "bytes": 447,
+    "sha256": "550ba2d818dcd9a95360bf3bccdf151a458197401ab0528dcf707c91b5798594",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "leaf/Composed.dc.html",
+    "source": "project-files/project/Composed.dc.html",
+    "bytes": 23876,
+    "sha256": "9b0e45beacd42c1088e76bec223e51b38505f3acbfaf0479d9c01ee4c6ebf991",
+    "kind": "unchanged-copy"
+  },
+  {
+    "path": "leaf/support.js",
+    "source": "project-files/artifact-type/dc-runtime.js",
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "kind": "unchanged-copy-with-runtime-alias"
+  }
+]

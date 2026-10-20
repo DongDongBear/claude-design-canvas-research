@@ -1,0 +1,72 @@
+{
+  "cursor": 166,
+  "events": [
+    {
+      "sequence": 164,
+      "source": {
+        "tabId": 2
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "2AD7A26F041FF0BF11399C8E8C3D9DC4",
+        "hasExtraInfo": true,
+        "loaderId": "75169CA5DF8D9384D32557F04FF36C55",
+        "requestId": "94440.61",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "utf-8",
+          "connectionId": 22683419,
+          "connectionReused": false,
+          "encodedDataLength": 606,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Cache-Control": "no-store",
+            "Content-Length": "258",
+            "Content-Security-Policy": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' 'unsafe-inline'; connect-src 'self' blob: data:; img-src 'self' blob: data:; font-src 'self' data:; frame-src 'self' blob: data:; worker-src 'self' blob:; media-src 'self' blob: data:; base-uri 'self'; form-action 'self'; object-src 'none'",
+            "Content-Type": "application/json; charset=utf-8",
+            "Date": "Tue, 20 Oct 2026 10:52:56 GMT",
+            "Referrer-Policy": "no-referrer",
+            "Server": "BaseHTTP/0.6 Python/3.14.7",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/json",
+          "protocol": "http/1.0",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 38471,
+          "responseTime": 1792493576278.328,
+          "securityState": "secure",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 0.675,
+            "connectStart": 0.399,
+            "dnsEnd": 0.399,
+            "dnsStart": 0.153,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 15.748,
+            "receiveHeadersStart": 15.689,
+            "requestTime": 503514.037674,
+            "sendEnd": 0.887,
+            "sendStart": 0.818,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://127.0.0.1:38471/__replay/publish"
+        },
+        "timestamp": 503514.054404,
+        "type": "Fetch"
+      }
+    }
+  ],
+  "hasMore": false,
+  "truncated": false
+}

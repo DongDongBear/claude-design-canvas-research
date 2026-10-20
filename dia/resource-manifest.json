@@ -1,0 +1,272 @@
+[
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "bytes": 158882,
+    "sha256": "e58e3601f24241c5c28b80cf99b6db3ba2b6c5cf4696fba028891112192cc0b2",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "bytes": 3693,
+    "sha256": "102895f73a6774e39a9a1173090169bfe6fe26d63a85947557f26a4fe51beff0",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "bytes": 5276,
+    "sha256": "d5ac251afec3e99a9ec43c82aca503f6b6dd9792602bc2c3dcd07f36b3d53278",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "bytes": 1672931,
+    "sha256": "6e61a6b70fe16e1ea083737d866fa4457fe563d1cb53642add240408a82717dc",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "bytes": 511958,
+    "sha256": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "bytes": 1163,
+    "sha256": "8de1cbd72f084ef0bccdb398507ed1fe97b748a074401bca9c0c18dab0d7c8af",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "bytes": 492455,
+    "sha256": "f2e5616eb7be651b923269a4ddd89aaeb0dfe99817ce51376de56e8fa9adf537",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "bytes": 32343,
+    "sha256": "855f2c65111758a23fac4431040eb9b5f10788e0528b75af98cd2a0042f63826",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "bytes": 259522,
+    "sha256": "d7f9b9d35642d3fb790809c8292d9acf496a295ce440d23e81734aa25cb0c52b",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "path": "dia/resources/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "bytes": 577303,
+    "sha256": "8fdf6372b2375fb8245d564ef7976db3df16cef5571235f2862dc286a79bf167",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/index.html",
+    "bytes": 74624,
+    "sha256": "be31509fae33228ae5583e42350304cc8f10813227489dcaf390ba87743f3a89",
+    "mimeType": "text/html",
+    "status": 304,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "bytes": 37941,
+    "sha256": "21375c3ce3b3cefd37cf203cec8cba30d4bae2a8b49a9ee1505cdbe3330c68cb",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css",
+    "bytes": 481552,
+    "sha256": "471ea680e9469e7a18cc3ab628c63e282bbab26065d21d6baf22ba79be6d9bf0",
+    "mimeType": "text/css",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js",
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/_files.json",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/_files.json",
+    "bytes": 3498,
+    "sha256": "a4a114c75ba69cbb32f5ada326c7eda48da3b07990a36959c90a25a798d8c8db",
+    "mimeType": "application/json",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/artifact.C83eZcTi.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/artifact.C83eZcTi.js",
+    "bytes": 121387,
+    "sha256": "157cd49671b36520c04c4b46d9bfbeaf0b858dd3554b65ea6331c159b2a37962",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/assets.DOAjpBS9.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/assets.DOAjpBS9.js",
+    "bytes": 4727,
+    "sha256": "2e615e8917d0c4a2b045340db7fa8b6910f89ad5b2005beaa4f603f242fc9c86",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/comments.CFMy0ayq.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/comments.CFMy0ayq.js",
+    "bytes": 21105,
+    "sha256": "b76478ddf3307b4c9d239e9ea283456e76aeb762cfd640a14a95249baf72132f",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/db.zFlAA4qL.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/db.zFlAA4qL.js",
+    "bytes": 13129,
+    "sha256": "e413fa385a96e2ac9c1ab30165ccffed844e9f85f2736e5e6c5f2b108434c14d",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/downloads.axDW2QAi.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/downloads.axDW2QAi.js",
+    "bytes": 3425,
+    "sha256": "402a10d8cd13778e94a09ef277fae3d67798d72b238704ebe5a5b400a62b2279",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/room.BYRHiLCc.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/room.BYRHiLCc.js",
+    "bytes": 20053,
+    "sha256": "3753392f7569ea41438514a0ab20a636bca4903587ebfc350966cedec6bc157c",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/sample.D5wHJkl_.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/sample.D5wHJkl_.js",
+    "bytes": 23358,
+    "sha256": "e617f8696e27f46f66c59b8a78ac738ae871b82d4573ee7848f6f8a13208a26e",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/user.uKicftX-.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/user.uKicftX-.js",
+    "bytes": 7249,
+    "sha256": "f2a8300c80cc5a714bba4d8753679f8f61d10cc220ef9b293b38a2d91e9b2b1b",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/permissions.6yWoDecA.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/permissions.6yWoDecA.js",
+    "bytes": 5203,
+    "sha256": "85c5ae84edaf065d7af8ed1906fd2788048151375db57235379cdd0a940993b5",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_comments.DjA5rMIh.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_comments.DjA5rMIh.js",
+    "bytes": 52634,
+    "sha256": "7f3070aa12a33e7b6389504550afc1e0dd3bc14eb9733563d2db9a742b8955f4",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/project/canvas.json",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/project/canvas.json",
+    "bytes": 447,
+    "sha256": "550ba2d818dcd9a95360bf3bccdf151a458197401ab0528dcf707c91b5798594",
+    "mimeType": "application/json",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/project/canvas.json",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/project/canvas.json",
+    "bytes": 447,
+    "sha256": "550ba2d818dcd9a95360bf3bccdf151a458197401ab0528dcf707c91b5798594",
+    "mimeType": "application/json",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/project/Composed.dc.html",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/project/Composed.dc.html",
+    "bytes": 23876,
+    "sha256": "9b0e45beacd42c1088e76bec223e51b38505f3acbfaf0479d9c01ee4c6ebf991",
+    "mimeType": "text/plain",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js",
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "path": "dia/resources/24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "bytes": 6004,
+    "sha256": "3634c599ed8d66505fe541a993baf6543ed6dca1855b0d81a357b5a4accec1ae",
+    "mimeType": "text/javascript",
+    "status": 200,
+    "method": "Dia-DevTools-HAR"
+  }
+]

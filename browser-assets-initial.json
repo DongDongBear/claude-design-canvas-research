@@ -1,0 +1,298 @@
+{
+  "assets": [
+    {
+      "id": "360a3dca4e68354f",
+      "kind": "other",
+      "name": "24f1e86e-af9c-437e-98c9-fcbdb46b17f9",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://claude.ai/api/frame/24f1e86e-af9c-437e-98c9-fcbdb46b17f9?via=user_open&bk=initial&actor=id&vt=1",
+      "redactedQueryFields": [
+        "org"
+      ]
+    },
+    {
+      "id": "1d3af3ecf5b42a06",
+      "kind": "other",
+      "name": "_warmup",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_warmup"
+    },
+    {
+      "id": "25dec8cdb7e97444",
+      "kind": "script",
+      "name": "frame-shell-DhOopBuD.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 33,
+          "property": "src"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js"
+    },
+    {
+      "id": "4b76d122c28c9632",
+      "kind": "font",
+      "name": "c0f671921-cvFTkbeX.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 32,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c0f671921-cvFTkbeX.woff2"
+    },
+    {
+      "id": "3ad71b30c1417c17",
+      "kind": "font",
+      "name": "cc27851ad-DDVos-BJ.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 31,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cc27851ad-DDVos-BJ.woff2"
+    },
+    {
+      "id": "881b051aaa268b81",
+      "kind": "script",
+      "name": "preload-helper-B-PsknVJ.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 34,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js"
+    },
+    {
+      "id": "77b990408668ff53",
+      "kind": "script",
+      "name": "shared-frame-boot-C59TeSGR.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 35,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js"
+    },
+    {
+      "id": "674a2183d26808ed",
+      "kind": "script",
+      "name": "frame-shell-chrome-C9gmiKHt.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 36,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js"
+    },
+    {
+      "id": "5de972dd62e839c7",
+      "kind": "script",
+      "name": "vendor-frame-DaQ5k-Tx.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 37,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js"
+    },
+    {
+      "id": "5c21ebd349cd9be3",
+      "kind": "script",
+      "name": "rolldown-runtime-BmbMa3VH.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 38,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js"
+    },
+    {
+      "id": "a48b4cec40cbe2ca",
+      "kind": "script",
+      "name": "frame-shell-header-CQorDb5K.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 40,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js"
+    },
+    {
+      "id": "68810d05f5cc89df",
+      "kind": "script",
+      "name": "shared-frame-CIAC0KKy.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 39,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js"
+    },
+    {
+      "id": "70425fd282d05a76",
+      "kind": "script",
+      "name": "frame-shell-deferred-Br0hC66Q.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 41,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js"
+    },
+    {
+      "id": "dcaf7bec9e15b7e9",
+      "kind": "script",
+      "name": "frame-shell-broker-HUDVMAJS.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 42,
+          "property": "href"
+        }
+      ],
+      "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js"
+    },
+    {
+      "id": "235a2203997d2cfa",
+      "kind": "other",
+      "name": "account",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://claude.ai/api/account"
+    },
+    {
+      "id": "403b96d3d8cd065f",
+      "kind": "other",
+      "name": "1792492624-1f35#page-dcb81aee8d83",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json#page-dcb81aee8d83"
+    },
+    {
+      "id": "0260444e8a81231a",
+      "kind": "image",
+      "name": "glyphs.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://claude.ai/images/artifact-icons/glyphs.svg?v=1uaixo0"
+    },
+    {
+      "id": "2ea8486f78945462",
+      "kind": "other",
+      "name": "telemetry",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://claude.ai/api/frame/telemetry"
+    }
+  ],
+  "id": "a370f376-d8be-4aae-9960-3b5ebcc5a8fa",
+  "inlineSvgs": [],
+  "pageUrl": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ#page-dcb81aee8d83",
+  "summary": {
+    "byKind": {
+      "font": 2,
+      "image": 1,
+      "other": 5,
+      "script": 10,
+      "stylesheet": 0,
+      "video": 0
+    },
+    "inlineSvgCount": 0,
+    "totalCount": 18
+  }
+}

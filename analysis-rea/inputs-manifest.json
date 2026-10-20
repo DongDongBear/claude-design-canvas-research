@@ -1,0 +1,177 @@
+[
+  {
+    "group": "canvas",
+    "source": "<CAPTURE_ROOT>/project-files/artifact-type/app.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-canvas/app.js",
+    "bytes": 4153993,
+    "sha256": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368"
+  },
+  {
+    "group": "canvas",
+    "source": "<CAPTURE_ROOT>/project-files/artifact-type/dc-runtime.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-canvas/dc-runtime.js",
+    "bytes": 187897,
+    "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10"
+  },
+  {
+    "group": "canvas",
+    "source": "<CAPTURE_ROOT>/project-files/artifact-type/fast-edit-worker.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-canvas/fast-edit-worker.js",
+    "bytes": 983903,
+    "sha256": "18e7e4395b5e25f4a482f14c74fa91959d4772ce7ca3a23411abeb1505efc8b1"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c08de09ec-CEJ2M4IN.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/c08de09ec-CEJ2M4IN.js",
+    "bytes": 984,
+    "sha256": "5f9e37cb432527dd74487f6c631ecb807b3c814dd951ab68dcd61649943ab420"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c26621f4a-BCkxRv_i.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/c26621f4a-BCkxRv_i.js",
+    "bytes": 63894,
+    "sha256": "0382ce34010d9548cfbf05a97a4722bf23383ccb87fceaf53551e99a4322e4e7"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c43c83380-CChY_0mG.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/c43c83380-CChY_0mG.js",
+    "bytes": 15109,
+    "sha256": "86132c19c961ecfb8b6a2f4b859c0f47f2a822c3b463acb7347564631b231f32"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c6cf8f08a-Ds5FxXhE.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/c6cf8f08a-Ds5FxXhE.js",
+    "bytes": 73458,
+    "sha256": "8beee429b27415ed466846f573eb220a5c8e7a787bd18158b0a543ade08270e7"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c86ccec3d-B5gmtuVF.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/c86ccec3d-B5gmtuVF.js",
+    "bytes": 29243,
+    "sha256": "c32b264a577d73b20dd8e31de0bc766355a7f727b5e0118bdcdbdcf2a038d71d"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cbf442711-DvEEkKDm.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/cbf442711-DvEEkKDm.js",
+    "bytes": 969,
+    "sha256": "7cf911db0e25bd263171708f82527c166cf11706b85d2f32dbfcdf75b212f9a7"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/ce0b4c6c4-DYg9-Do-.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/ce0b4c6c4-DYg9-Do-.js",
+    "bytes": 5033,
+    "sha256": "d36a1940aea25bd47d4b11e3075f2666bdab57e58ee94feceec1cbadfa30babc"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf2613ee5-CgpXKaa3.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/cf2613ee5-CgpXKaa3.js",
+    "bytes": 163154,
+    "sha256": "8367b885f95b1a3b96b47ebec92e66ee1477a22fadf4edd71bf5575a2de7572a"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf66d5828-CgTIRaiA.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/cf66d5828-CgTIRaiA.js",
+    "bytes": 60196,
+    "sha256": "24a0973ea93c6d5fd3eb1d257f6e3347d0c400566df0ec2fc40aa8369eed305b"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-DhOopBuD.js",
+    "bytes": 158882,
+    "sha256": "e58e3601f24241c5c28b80cf99b6db3ba2b6c5cf4696fba028891112192cc0b2"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-broker-HUDVMAJS.js",
+    "bytes": 577303,
+    "sha256": "8fdf6372b2375fb8245d564ef7976db3df16cef5571235f2862dc286a79bf167"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-chrome-C9gmiKHt.js",
+    "bytes": 1672931,
+    "sha256": "6e61a6b70fe16e1ea083737d866fa4457fe563d1cb53642add240408a82717dc"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-deferred-Br0hC66Q.js",
+    "bytes": 259522,
+    "sha256": "d7f9b9d35642d3fb790809c8292d9acf496a295ce440d23e81734aa25cb0c52b"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-dictate-DuZeGejU.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-dictate-DuZeGejU.js",
+    "bytes": 1449,
+    "sha256": "a968284e4147ceef8c4dd6d9dfb4b64188253d36fff28d5b96feae89de4af758"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-header-CQorDb5K.js",
+    "bytes": 32343,
+    "sha256": "855f2c65111758a23fac4431040eb9b5f10788e0528b75af98cd2a0042f63826"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-replica-D0Xy7sOd.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-replica-D0Xy7sOd.js",
+    "bytes": 1314400,
+    "sha256": "5be9b2f31b8e1e29bceb1ac09052daa98615aa9e93bc7683a54f1dfe3689fe10"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-speak-XVWBr-Y8.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/frame-shell-speak-XVWBr-Y8.js",
+    "bytes": 2538,
+    "sha256": "18802c2753024a61ab8ca47f37a6de3f06bcb476b17c58103b0c885267326ab8"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/preload-helper-B-PsknVJ.js",
+    "bytes": 3693,
+    "sha256": "102895f73a6774e39a9a1173090169bfe6fe26d63a85947557f26a4fe51beff0"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/rolldown-runtime-BmbMa3VH.js",
+    "bytes": 1163,
+    "sha256": "8de1cbd72f084ef0bccdb398507ed1fe97b748a074401bca9c0c18dab0d7c8af"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/shared-frame-CIAC0KKy.js",
+    "bytes": 492455,
+    "sha256": "f2e5616eb7be651b923269a4ddd89aaeb0dfe99817ce51376de56e8fa9adf537"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/shared-frame-boot-C59TeSGR.js",
+    "bytes": 5276,
+    "sha256": "d5ac251afec3e99a9ec43c82aca503f6b6dd9792602bc2c3dcd07f36b3d53278"
+  },
+  {
+    "group": "shell",
+    "source": "<CAPTURE_ROOT>/assets/assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js",
+    "path": "<CAPTURE_ROOT>/analysis-rea/inputs-shell/vendor-frame-DaQ5k-Tx.js",
+    "bytes": 511958,
+    "sha256": "38290f7c67131e8fc3da0ba7e1cb4fc5df0ef28eb6171a050e4a1bf61166df24"
+  }
+]

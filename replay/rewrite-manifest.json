@@ -1,0 +1,38 @@
+{
+  "sharedOriginalsUnchanged": [
+    "editor/artifact-type/app.js",
+    "editor/artifact-type/app.css",
+    "editor/artifact-type/dc-runtime.js",
+    "editor/artifact-type/fast-edit-worker.js"
+  ],
+  "editorIndex": {
+    "source": "analysis-project/recovered-index.html",
+    "sourceSha256": "15ea60ba6f7becf035af1d558c21ea534c6908aa1011f97b4381ee9df1d35646",
+    "output": "replay/editor/index.html",
+    "outputSha256": "907d6b9da548011370b856835b9634c70a8c40b7601a5a26e172a68cd257cfd8",
+    "changes": [
+      "在head注入/offline-adapter.js与副本注释",
+      "Anthropic Sans远程主URL与/_runtime回退均改为/editor/artifact-type/fonts/已捕获字体",
+      "title增添“本机回放副本”标签；body及原脚本内容不变"
+    ]
+  },
+  "newAdapters": [
+    "offline-adapter.js",
+    "server.py"
+  ],
+  "leaf": {
+    "source": "project-files/project/Composed.dc.html",
+    "output": "replay/leaf/Composed.dc.html",
+    "sourceUnchanged": true,
+    "supportAlias": {
+      "source": "project-files/artifact-type/dc-runtime.js",
+      "output": "replay/leaf/support.js",
+      "byteIdentical": true
+    }
+  },
+  "state": {
+    "projectOverlay": "replay/state/project/",
+    "metadata": "replay/state/state.json",
+    "upstream": false
+  }
+}

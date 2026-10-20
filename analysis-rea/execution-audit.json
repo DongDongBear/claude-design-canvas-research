@@ -1,0 +1,34 @@
+{
+  "date_utc": "2026-10-20T10:46:47.557932+00:00",
+  "target_is_never_executed": true,
+  "registry": "https://registry.npmjs.org",
+  "package": "rea-agents@6.7.0",
+  "node_version": "v22.22.3",
+  "npm_version": "10.9.8",
+  "python_version": "Python 3.14.7",
+  "package_sha256": "20958a66dba1a011e50a486beb9463a343128ed368c984f94065362c13f51f90",
+  "npm_install_command": "npm install --ignore-scripts --omit=optional --no-audit --no-fund --registry=https://registry.npmjs.org --cache=.npm-cache > install.stdout.txt 2> install.stderr.txt",
+  "hooks_executed": false,
+  "native_optional_frida_installed": false,
+  "pty_and_frida_only_lazy_paths": [
+    "dist/cli-runtime/cli.js:9086",
+    "dist/cli-runtime/cli.js:27483",
+    "dist/cli-runtime/cli.js:27676"
+  ],
+  "reviewed_sources": [
+    "scripts/rea.mjs",
+    "scripts/prepare.mjs",
+    "src/cli/javascriptApplicationAnalysis.ts",
+    "src/process/DarwinProcessRunTokenReader.ts",
+    "bridge/process/ProcessRunTokenReader.swift",
+    "bridge/process/ProcessRunTokenReaderMain.swift"
+  ],
+  "darwin_helper": "REA may compile its reviewed Swift process ownership helper using installed xcrun/swiftc; no downloaded executable is invoked",
+  "counts": {
+    "canvas": 3,
+    "shell": 22
+  },
+  "resolved_package_entries": 152,
+  "dependency_install_stdout": "added 146 packages in 36s",
+  "install_script_lock_entries": []
+}

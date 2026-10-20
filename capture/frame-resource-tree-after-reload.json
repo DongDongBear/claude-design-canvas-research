@@ -1,0 +1,88 @@
+{
+  "frameTree": {
+    "childFrames": [
+      {
+        "frame": {
+          "adFrameStatus": {
+            "adFrameType": "none",
+            "explanations": []
+          },
+          "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+          "domainAndRegistry": "",
+          "gatedAPIFeatures": [],
+          "id": "F4170CC3EA08DEA24E54497F9A60F140",
+          "loaderId": "577DDCFFD3114661A0D1BC84F5D5418C",
+          "mimeType": "text/html",
+          "name": "",
+          "parentId": "47E502FE006B2F64DB210E08AF23C368",
+          "secureContextType": "Secure",
+          "securityOrigin": "://",
+          "securityOriginDetails": {
+            "isLocalhost": false
+          },
+          "url": "about:srcdoc"
+        },
+        "resources": [
+          {
+            "contentSize": 0,
+            "mimeType": "text/javascript",
+            "type": "Script",
+            "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/dc-runtime.js"
+          }
+        ]
+      }
+    ],
+    "frame": {
+      "adFrameStatus": {
+        "adFrameType": "none"
+      },
+      "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+      "domainAndRegistry": "claudeusercontent.com",
+      "gatedAPIFeatures": [],
+      "id": "47E502FE006B2F64DB210E08AF23C368",
+      "loaderId": "2D738BE9768969B30CC217BE5E291A74",
+      "mimeType": "text/html",
+      "name": "{\"hot\":{\"k\":\"1xhd6fy1gqz1g2\"},\"usable\":[],\"n\":\"p4bqbymato\"}",
+      "parentId": "349DC7E842473D4DF54EB70B70B02731",
+      "secureContextType": "Secure",
+      "securityOrigin": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com",
+      "securityOriginDetails": {
+        "isLocalhost": false
+      },
+      "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/?__frame_v=manifest.30c3cda2c52db8f1.json",
+      "urlFragment": "#page-dcb81aee8d83"
+    },
+    "resources": [
+      {
+        "contentSize": 6004,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js"
+      },
+      {
+        "contentSize": 118172,
+        "mimeType": "font/woff2",
+        "type": "Font",
+        "url": "https://fonts.frame.claudeusercontent.com/_runtime/AnthropicSans-Roman-Variable-26-179-2.542f0e8bf7a27f23.woff2"
+      },
+      {
+        "contentSize": 37941,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js"
+      },
+      {
+        "contentSize": 0,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.js"
+      },
+      {
+        "contentSize": 0,
+        "mimeType": "text/css",
+        "type": "Stylesheet",
+        "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_f/1792492624-1f35/artifact-type/app.css"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "kind": "authed",
+  "ver": "1792492624-1f35",
+  "seq": 10,
+  "runtime": {
+    "contract": "0.2.47",
+    "changes": [
+      "artifact",
+      "artifact-files",
+      "artifact-publish-preconditions",
+      "artifact-sync-body-default",
+      "artifact-sync-dropped-event",
+      "artifact-sync-off-scope",
+      "artifact-sync-reconcile",
+      "assets",
+      "assets-css-js-types",
+      "assets-fonts",
+      "assets-list-delete",
+      "assets-root-url",
+      "assets-svg",
+      "assets-text-types",
+      "claude",
+      "comments",
+      "comments-open-composer",
+      "db",
+      "db-path-call-site",
+      "db-quota-exceeded",
+      "db-realtime",
+      "db-snake-codes",
+      "downloads",
+      "downloads-export-request",
+      "downloads-extended-types",
+      "downloads-no-size-limit",
+      "downloads-pdf",
+      "downloads-xlsx",
+      "embed",
+      "embed-base",
+      "endpoints",
+      "focus-keep",
+      "kernel-alive",
+      "mcp",
+      "mcp-artifact-servers",
+      "mcp-call-cache",
+      "mcp-host-servers",
+      "mcp-lazy-consent",
+      "mcp-selection-required",
+      "mcp-v2",
+      "network",
+      "notifications",
+      "notifications-removed",
+      "permissions",
+      "room",
+      "room-presence-to-claude",
+      "room-presence-to-claude-removed",
+      "room-send-deliver",
+      "room-send-to-claude-session",
+      "sample",
+      "sample-cache",
+      "sample-images",
+      "sample-incomplete-codes",
+      "sample-streaming",
+      "sample-tools",
+      "scroll-keep",
+      "self",
+      "self-edit-in-place",
+      "self-edit-live-docs",
+      "self-sync-regions",
+      "top-level",
+      "user",
+      "user-can",
+      "user-directory"
+    ],
+    "stamped": "partial"
+  },
+  "appFlags": {
+    "appifact_bottom_toolbar": false,
+    "appifact_creation_sequence": true,
+    "appifact_extra_export_formats": true,
+    "appifact_icon_set": false,
+    "design_artboards_at_address": false,
+    "design_fast_edit": false,
+    "design_fast_edit_sample": {
+      "modelTier": "default"
+    }
+  },
+  "typeSlug": "bcd2878f-a88d-4094-a616-8e39d8a5fd8a",
+  "typeTitle": "Design",
+  "capabilities": {
+    "artifact": {
+      "declared": true
+    },
+    "assets": {
+      "declared": true
+    },
+    "comments": {
+      "declared": true
+    },
+    "db": {
+      "declared": true
+    },
+    "downloads": {
+      "declared": true
+    },
+    "paste": {
+      "declared": true
+    },
+    "room": {
+      "declared": true
+    },
+    "sample": {
+      "declared": true
+    },
+    "user": {
+      "declared": true
+    }
+  },
+  "permission": {
+    "role": "owner",
+    "shareMode": "public",
+    "canEdit": true,
+    "can": [
+      "assets.write",
+      "data.write",
+      "files.write"
+    ]
+  },
+  "capture": {
+    "httpResources": 30,
+    "source": "Dia原生DevTools，仅保留静态资源和已裁剪结论",
+    "harPrivateLocalOnly": true
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "path": "<CAPTURE_ROOT>/analysis-rea/inputs-canvas/dc-runtime.js",
+  "bytes": 187897,
+  "sha256": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10",
+  "parser": "REA 6.7.0 parseJavaScriptSource (@babel/parser 8.0.4)",
+  "analysis_kind": "syntax-only-fallback-not-public-cli-evidence",
+  "target_executed": false,
+  "parsed": true,
+  "parser_errors": [],
+  "ast_nodes": 61034,
+  "imports": [],
+  "exports": [],
+  "classes": [
+    {
+      "name": null,
+      "super_class": "",
+      "start_utf16": 167227,
+      "end_utf16": 167521,
+      "line": 349,
+      "column_utf16": 20058
+    },
+    {
+      "name": null,
+      "super_class": "r.Component",
+      "start_utf16": 168457,
+      "end_utf16": 168780,
+      "line": 350,
+      "column_utf16": 860
+    },
+    {
+      "name": "s",
+      "super_class": "r.Component",
+      "start_utf16": 168809,
+      "end_utf16": 172630,
+      "line": 350,
+      "column_utf16": 1212
+    }
+  ],
+  "calls": [
+    {
+      "callee": "Ea.postMessage",
+      "expression": "Ea.postMessage(null)",
+      "truncated": false,
+      "start_utf16": 6304,
+      "end_utf16": 6324,
+      "line": 21,
+      "column_utf16": 440
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"div\")",
+      "truncated": false,
+      "start_utf16": 32811,
+      "end_utf16": 32840,
+      "line": 87,
+      "column_utf16": 261
+    },
+    {
+      "callee": "a.addEventListener",
+      "expression": "a.addEventListener(b,c,{capture:!0,passive:e})",
+      "truncated": false,
+      "start_utf16": 37743,
+      "end_utf16": 37789,
+      "line": 97,
+      "column_utf16": 106
+    },
+    {
+      "callee": "a.addEventListener",
+      "expression": "a.addEventListener(b,c,!0)",
+      "truncated": false,
+      "start_utf16": 37790,
+      "end_utf16": 37816,
+      "line": 97,
+      "column_utf16": 153
+    },
+    {
+      "callee": "a.addEventListener",
+      "expression": "a.addEventListener(b,c,{passive:e})",
+      "truncated": false,
+      "start_utf16": 37828,
+      "end_utf16": 37863,
+      "line": 97,
+      "column_utf16": 191
+    },
+    {
+      "callee": "a.addEventListener",
+      "expression": "a.addEventListener(b,c,!1)",
+      "truncated": false,
+      "start_utf16": 37864,
+      "end_utf16": 37890,
+      "line": 97,
+      "column_utf16": 227
+    },
+    {
+      "callee": "g.createElement",
+      "expression": "g.createElement(\"div\")",
+      "truncated": false,
+      "start_utf16": 81559,
+      "end_utf16": 81581,
+      "line": 183,
+      "column_utf16": 64
+    },
+    {
+      "callee": "g.createElement",
+      "expression": "g.createElement(c,{is:d.is})",
+      "truncated": false,
+      "start_utf16": 81673,
+      "end_utf16": 81701,
+      "line": 183,
+      "column_utf16": 178
+    },
+    {
+      "callee": "g.createElement",
+      "expression": "g.createElement(c)",
+      "truncated": false,
+      "start_utf16": 81705,
+      "end_utf16": 81723,
+      "line": 183,
+      "column_utf16": 210
+    },
+    {
+      "callee": "MSApp.execUnsafeLocalFunction",
+      "expression": "MSApp.execUnsafeLocalFunction(function(){return a(b,\nc,d,e)})",
+      "truncated": false,
+      "start_utf16": 118366,
+      "end_utf16": 118427,
+      "line": 252,
+      "column_utf16": 453
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"div\")",
+      "truncated": false,
+      "start_utf16": 118538,
+      "end_utf16": 118567,
+      "line": 253,
+      "column_utf16": 119
+    },
+    {
+      "callee": "window.addEventListener",
+      "expression": "window.addEventListener(\"test\",Lc,Lc)",
+      "truncated": false,
+      "start_utf16": 119965,
+      "end_utf16": 120002,
+      "line": 256,
+      "column_utf16": 35
+    },
+    {
+      "callee": "window.removeEventListener",
+      "expression": "window.removeEventListener(\"test\",Lc,Lc)",
+      "truncated": false,
+      "start_utf16": 120003,
+      "end_utf16": 120043,
+      "line": 256,
+      "column_utf16": 73
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"div\")",
+      "truncated": false,
+      "start_utf16": 124817,
+      "end_utf16": 124846,
+      "line": 265,
+      "column_utf16": 172
+    },
+    {
+      "callee": "[CallExpression].createElement",
+      "expression": "L().createElement(...t)",
+      "truncated": false,
+      "start_utf16": 143155,
+      "end_utf16": 143178,
+      "line": 304,
+      "column_utf16": 429
+    },
+    {
+      "callee": "t.querySelector",
+      "expression": "t.querySelector(\"x-dc\")",
+      "truncated": false,
+      "start_utf16": 143203,
+      "end_utf16": 143226,
+      "line": 304,
+      "column_utf16": 477
+    },
+    {
+      "callee": "t.querySelector",
+      "expression": "t.querySelector(\"script[data-dc-script]\")",
+      "truncated": false,
+      "start_utf16": 143253,
+      "end_utf16": 143294,
+      "line": 304,
+      "column_utf16": 527
+    },
+    {
+      "callee": "[CallExpression].querySelector",
+      "expression": "new DOMParser().parseFromString(t,\"text/html\").querySelector(\"script[data-dc-script]\")",
+      "truncated": false,
+      "start_utf16": 143602,
+      "end_utf16": 143688,
+      "line": 304,
+      "column_utf16": 876
+    },
+    {
+      "callee": "DOMParser",
+      "expression": "new DOMParser()",
+      "truncated": false,
+      "start_utf16": 143602,
+      "end_utf16": 143617,
+      "line": 304,
+      "column_utf16": 876
+    },
+    {
+      "callee": "fetch",
+      "expression": "fetch(location.href)",
+      "truncated": false,
+      "start_utf16": 147602,
+      "end_utf16": 147622,
+      "line": 349,
+      "column_utf16": 433
+    },
+    {
+      "callee": "n.querySelector",
+      "expression": "n.querySelector(\"x-dc\")",
+      "truncated": false,
+      "start_utf16": 147743,
+      "end_utf16": 147766,
+      "line": 349,
+      "column_utf16": 574
+    },
+    {
+      "callee": "n.createElement",
+      "expression": "n.createElement(\"div\")",
+      "truncated": false,
+      "start_utf16": 147769,
+      "end_utf16": 147791,
+      "line": 349,
+      "column_utf16": 600
+    },
+    {
+      "callee": "n.createElement",
+      "expression": "n.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 147847,
+      "end_utf16": 147871,
+      "line": 349,
+      "column_utf16": 678
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"template\")",
+      "truncated": false,
+      "start_utf16": 158976,
+      "end_utf16": 159010,
+      "line": 349,
+      "column_utf16": 11807
+    },
+    {
+      "callee": "t.querySelector",
+      "expression": "t.querySelector(ke)",
+      "truncated": false,
+      "start_utf16": 165807,
+      "end_utf16": 165826,
+      "line": 349,
+      "column_utf16": 18638
+    },
+    {
+      "callee": "Function",
+      "expression": "new Function(\"DCLogic\",\"StreamableLogic\",\"React\",t+`\n;return (typeof Component!==\"undefined\"&&Component)||undefined;`)",
+      "truncated": false,
+      "start_utf16": 167544,
+      "end_utf16": 167662,
+      "line": 349,
+      "column_utf16": 20375
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"script\")",
+      "truncated": false,
+      "start_utf16": 174092,
+      "end_utf16": 174124,
+      "line": 350,
+      "column_utf16": 6495
+    },
+    {
+      "callee": "fetch",
+      "expression": "fetch(d)",
+      "truncated": false,
+      "start_utf16": 174519,
+      "end_utf16": 174527,
+      "line": 350,
+      "column_utf16": 6922
+    },
+    {
+      "callee": "Function",
+      "expression": "new Function(\"React\",\"module\",\"exports\",\"require\",k)",
+      "truncated": false,
+      "start_utf16": 174750,
+      "end_utf16": 174802,
+      "line": 350,
+      "column_utf16": 7153
+    },
+    {
+      "callee": "window.parent.postMessage",
+      "expression": "window.parent.postMessage({type:\"__dc_design_mode\",mode:u},\"*\")",
+      "truncated": false,
+      "start_utf16": 178549,
+      "end_utf16": 178612,
+      "line": 350,
+      "column_utf16": 10952
+    },
+    {
+      "callee": "t.createElement",
+      "expression": "t.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 178720,
+      "end_utf16": 178744,
+      "line": 350,
+      "column_utf16": 11123
+    },
+    {
+      "callee": "window.addEventListener",
+      "expression": "window.addEventListener(\"message\",u=>{const d=u.data&&u.data.type;if(d===\"__dc_theme\"){const g=u.data.theme;(g===\"light\"||g===\"dark\")&&(l=g,c());return}!s||d!==\"__dc_probe\"||a(s)})",
+      "truncated": false,
+      "start_utf16": 178882,
+      "end_utf16": 179062,
+      "line": 350,
+      "column_utf16": 11285
+    },
+    {
+      "callee": "t.createElement",
+      "expression": "t.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 179248,
+      "end_utf16": 179272,
+      "line": 350,
+      "column_utf16": 11651
+    },
+    {
+      "callee": "t.createElement",
+      "expression": "t.createElement(\"script\")",
+      "truncated": false,
+      "start_utf16": 179591,
+      "end_utf16": 179616,
+      "line": 350,
+      "column_utf16": 11994
+    },
+    {
+      "callee": "t.createElement",
+      "expression": "t.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 180153,
+      "end_utf16": 180177,
+      "line": 350,
+      "column_utf16": 12556
+    },
+    {
+      "callee": "t.createElement",
+      "expression": "t.createElement(p.toLowerCase())",
+      "truncated": false,
+      "start_utf16": 180563,
+      "end_utf16": 180595,
+      "line": 350,
+      "column_utf16": 12966
+    },
+    {
+      "callee": "t.createElement",
+      "expression": "t.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 181974,
+      "end_utf16": 181998,
+      "line": 350,
+      "column_utf16": 14377
+    },
+    {
+      "callee": "fetch",
+      "expression": "fetch(R)",
+      "truncated": false,
+      "start_utf16": 183248,
+      "end_utf16": 183256,
+      "line": 350,
+      "column_utf16": 15651
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 185975,
+      "end_utf16": 186006,
+      "line": 350,
+      "column_utf16": 18378
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"script\")",
+      "truncated": false,
+      "start_utf16": 186133,
+      "end_utf16": 186165,
+      "line": 350,
+      "column_utf16": 18536
+    },
+    {
+      "callee": "document.createElement",
+      "expression": "document.createElement(\"style\")",
+      "truncated": false,
+      "start_utf16": 186624,
+      "end_utf16": 186655,
+      "line": 350,
+      "column_utf16": 19027
+    },
+    {
+      "callee": "window.parent.postMessage",
+      "expression": "window.parent.postMessage({type:\"__dc_booted\",rootName:e,mounted:r,propsMeta:c&&c.propsMeta||null,preview:c&&c.preview||null,tellsErrors:!0},\"*\")",
+      "truncated": false,
+      "start_utf16": 186778,
+      "end_utf16": 186923,
+      "line": 350,
+      "column_utf16": 19181
+    },
+    {
+      "callee": "window.parent.postMessage",
+      "expression": "window.parent.postMessage(a,\"*\")",
+      "truncated": false,
+      "start_utf16": 187023,
+      "end_utf16": 187055,
+      "line": 350,
+      "column_utf16": 19426
+    },
+    {
+      "callee": "document.addEventListener",
+      "expression": "document.addEventListener(\"DOMContentLoaded\",()=>l.__dcBoot())",
+      "truncated": false,
+      "start_utf16": 187736,
+      "end_utf16": 187798,
+      "line": 350,
+      "column_utf16": 20139
+    }
+  ],
+  "relevant_strings": [
+    {
+      "value": "). If you meant to render a collection of children, use an array instead.",
+      "start_utf16": 2353,
+      "end_utf16": 2428,
+      "line": 14,
+      "column_utf16": 77
+    },
+    {
+      "value": "iframe",
+      "start_utf16": 80419,
+      "end_utf16": 80427,
+      "line": 180,
+      "column_utf16": 448
+    },
+    {
+      "value": "iframe",
+      "start_utf16": 81942,
+      "end_utf16": 81950,
+      "line": 183,
+      "column_utf16": 447
+    },
+    {
+      "value": "accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height",
+      "start_utf16": 115767,
+      "end_utf16": 116848,
+      "line": 249,
+      "column_utf16": 453
+    },
+    {
+      "value": "iframe",
+      "start_utf16": 153353,
+      "end_utf16": 153361,
+      "line": 349,
+      "column_utf16": 6184
+    },
+    {
+      "value": "srcdoc",
+      "start_utf16": 153621,
+      "end_utf16": 153629,
+      "line": 349,
+      "column_utf16": 6452
+    },
+    {
+      "value": " }} never resolved — rendered as empty",
+      "start_utf16": 160239,
+      "end_utf16": 160284,
+      "line": 349,
+      "column_utf16": 13070
+    },
+    {
+      "value": "script style textarea option title select canvas iframe video audio",
+      "start_utf16": 163729,
+      "end_utf16": 163798,
+      "line": 349,
+      "column_utf16": 16560
+    },
+    {
+      "value": "[dc-runtime] render error in <",
+      "start_utf16": 169445,
+      "end_utf16": 169477,
+      "line": 350,
+      "column_utf16": 1848
+    },
+    {
+      "value": ".renderVals(): ",
+      "start_utf16": 172294,
+      "end_utf16": 172311,
+      "line": 350,
+      "column_utf16": 4697
+    },
+    {
+      "value": " is not a function — rendering <",
+      "start_utf16": 176649,
+      "end_utf16": 176688,
+      "line": 350,
+      "column_utf16": 9052
+    },
+    {
+      "value": "canvas",
+      "start_utf16": 178656,
+      "end_utf16": 178664,
+      "line": 350,
+      "column_utf16": 11059
+    },
+    {
+      "value": "data-dc-canvas",
+      "start_utf16": 178697,
+      "end_utf16": 178713,
+      "line": 350,
+      "column_utf16": 11100
+    },
+    {
+      "value": "data-dc-canvas",
+      "start_utf16": 178760,
+      "end_utf16": 178776,
+      "line": 350,
+      "column_utf16": 11163
+    },
+    {
+      "value": "data-dc-canvas",
+      "start_utf16": 178843,
+      "end_utf16": 178859,
+      "line": 350,
+      "column_utf16": 11246
+    },
+    {
+      "value": "— the reference renders as an empty placeholder.",
+      "start_utf16": 183365,
+      "end_utf16": 183420,
+      "line": 350,
+      "column_utf16": 15768
+    },
+    {
+      "value": "— the template renders with props only.",
+      "start_utf16": 184492,
+      "end_utf16": 184538,
+      "line": 350,
+      "column_utf16": 16895
+    },
+    {
+      "value": "__dc_render_errors",
+      "start_utf16": 186992,
+      "end_utf16": 187012,
+      "line": 350,
+      "column_utf16": 19395
+    }
+  ],
+  "embedded_strings": [],
+  "duration_seconds": 0.08101962500000003
+}

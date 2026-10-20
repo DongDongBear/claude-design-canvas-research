@@ -1,0 +1,59 @@
+{
+  "environment": "仅127.0.0.1的研究副本；原Claude作品未修改",
+  "originalCode": {
+    "app.js": "88c663e57d5ce369138272ef13f45267b87104626c2fb69943a5dc2cf7304368",
+    "dc-runtime.js": "3f160299989dc595cf434dac7b7f3e6fd20ed015a2d99e075c3eac09dffe0f10"
+  },
+  "browserWidthEdit": {
+    "from": 1280,
+    "to": 1300,
+    "saveResponseFile": "../replay/browser-width-save-response.json",
+    "status": 200,
+    "afterReload": 1300,
+    "restored": 1280
+  },
+  "browserHtmlCssEdit": {
+    "field": "CSS and attributes",
+    "from": "background: #ffffff;",
+    "to": "background: #fff5ed;",
+    "savedHtmlVerified": true,
+    "proof": "../replay/browser-css-file-evidence.json",
+    "restored": true
+  },
+  "finalHealth": {
+    "offline": true,
+    "binding": "127.0.0.1",
+    "seq": 8,
+    "writes": [
+      "project/Composed.dc.html",
+      "project/canvas.json"
+    ],
+    "deleted": [
+      "project/ReplaySmoke.txt",
+      "project/ReplayAtomicSmoke.txt"
+    ],
+    "upstream": false
+  },
+  "finalHtmlSha256": "d2ae1cbbcd10b2e89dd623d314561e3dde46441c5716f73d9a2c82142b771182",
+  "network": {
+    "browserBlockedPatterns": [
+      "https://*",
+      "wss://*"
+    ],
+    "serverHasUpstreamClient": false,
+    "scope": "验证启动、选择、属性、保存、刷新；非恶意代码断网证明"
+  },
+  "unavailable": [
+    "远端AI Fast Edit（实际账号flag=false）",
+    "多人同步",
+    "云资产上传",
+    "云导出服务",
+    "真实Claude保存ACK"
+  ],
+  "browserInstrumentationError": {
+    "source": "browser-page-preload.js.map",
+    "scriptId": "4",
+    "message": "MutationObserver.observe参数非Node",
+    "attribution": "Codex浏览器注入；调用栈无目标app.js"
+  }
+}

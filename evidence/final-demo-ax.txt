@@ -1,0 +1,205 @@
+Browser tab: 2, Title: "Files grid directions", URL: "http://127.0.0.1:38471/editor/".
+1 AXWebArea Files grid directions, URL: 127.0.0.1:38471/editor/
+	2 container
+		3 container root
+			4 container
+				5 container
+					6 pop up button (collapsed) Description: Page 1, pages, ID: base-ui-_r_2_, Secondary Actions: Expand
+					7 container dc-toolbar-tools
+						8 checkbox Description: Select, Value: 1
+						9 checkbox Description: Hand, Value: 0
+						10 checkbox Description: Text, Value: 0
+						11 checkbox Description: Artboard, Value: 0
+						12 checkbox Description: Note, Value: 0
+						13 container Drawing tools
+							14 checkbox Description: Pencil, Value: 0
+							15 pop up button (collapsed) Description: More drawing tools, Secondary Actions: Expand
+						16 container Shapes
+							17 checkbox Description: Rectangle, Value: 0
+							18 pop up button (collapsed) Description: More shapes, Secondary Actions: Expand
+					19 pop up button (collapsed) Description: Play, ID: base-ui-_r_e_, Secondary Actions: Expand
+					20 checkbox Description: Properties, Value: 1, ID: dc-props-toggle
+					21 pop up button (collapsed) Description: 67%, Zoom, ID: base-ui-_r_10_, Secondary Actions: Expand
+				22 container Canvas
+					23 container
+						24 checkbox Description: Artboard 1 of 1: Chosen · A layout with D folders, Value: 0
+						25 container
+							26 button Open artboard Chosen · A layout with D folders full window
+							27 pop up button (disabled, collapsed) Description: Export artboard Chosen · A layout with D folders, Secondary Actions: Expand
+						28 container Description: Chosen · A layout with D folders, Help: Composed.dc.html
+							29 AXWebArea A with D folders, URL: about:srcdoc
+								30 container dc-root
+									31 container
+										32 container Location
+											33 link Description: Local files, Value: 127.0.0.1:38471/appifact/Composed.dc.html#
+											34 text Atlas Redesign
+										35 heading Atlas Redesign, Value: 1
+											36 text Atlas Redesign
+										37 checkbox All, Value: 1
+										38 checkbox Documents, Value: 0
+										39 checkbox Images, Value: 0
+										40 checkbox Other, Value: 0
+										137 text 你好我好
+									41 container Folders
+										42 heading Folders, Value: 2, ID: c-folders
+											43 text Folders
+										44 text 6
+										45 button (disabled) Previous folders
+										46 button Next folders
+										47 container
+											48 container
+												49 text Interview: harbor pilot Ferries leave the north pier at six; the pilots meet at the chandlery first.
+											50 container
+												51 text Research 14 docs · 10 photos · 2h ago
+											52 container
+												53 text Brand 6 fonts · 12 SVG · Yesterday
+											54 container
+												55 text Prototype 3 folders · 41 files · 3 days ago
+											56 container
+												57 text Exports 9 PDF · Oct 2
+											58 container
+												59 text Recordings 4 audio · 2 video · Sep 28
+									60 container Files
+										61 heading Files, Value: 2, ID: c-files
+											62 text Files
+										63 text 15
+										64 text Project brief
+										65 text Make the atlas readable on a phone without losing the fold-out maps. Every district page should open quickly on a train connection.
+										66 text Goals
+										67 content list
+											68 container
+												69 AXListMarker • 
+												70 text One reading column; maps open full screen
+											71 container
+												72 AXListMarker • 
+												73 text Offline district packs
+											74 container
+												75 AXListMarker • 
+												76 text Search by street, stop or landmark
+										77 text Project brief
+										78 text Document · Edited 2h ago
+										79 container
+											80 text  1 import  { BASE_URL }  from './config' ;
+  2  3 export function  tileUrl(z, x, y) {
+  4 return `${BASE_URL}/${z}/${x}/${y}.pbf` ;
+  5   }
+										81 text tiles.ts
+										82 text TypeScript · 84 lines
+										83 image Photo placeholder: market stall
+										84 text market-stall.jpg
+										85 text 2400 × 3000 · 3.1 MB
+										86 container
+											87 text {
+   "name" :  "atlas-web" ,
+   "version" :  "0.4.0" ,
+   "scripts" : {
+     "dev" :  "vite" 
+  }
+}
+										88 text package.json
+										89 text JSON · 612 bytes
+										90 text Atlas Redesign
+										91 text A reading-first rebuild of the city atlas for phones and the web.
+										92 text Getting started
+										93 text npm install
+npm run dev
+										94 text README.md
+										95 text Markdown · Yesterday
+										96 text 2:14
+										97 text walkthrough.mp4
+										98 text Video · 48 MB
+										99 text HARBOR DISTRICT
+										100 text Field Guide
+										101 text Walks, stops and the old ferry routes
+										102 text Start at the north pier, where the first ferry left in 1902. The walk follows the sea wall past the chandlery and the pilots' house.
+										103 text Field guide.pdf
+										104 text PDF · 12 pages · 4.2 MB
+									105 container Other files
+										106 heading Other files, Value: 2, ID: c-other
+											107 text Other files
+										108 text 2
+										109 text .gitignore
+										110 text node_modules/ dist/ .env *.log
+										111 text 42 bytes
+										112 text LICENSE
+										113 text MIT License. Copyright (c) 2026 Atlas contributors
+										114 text 1 KB
+										115 button 1 hidden system file · Show
+				116 container Description: Properties panel, ID: dc-panel-aside
+					117 container
+						118 tab group Panel view
+							119 tab (selectable, settable, boolean) Properties, Value: 0, ID: base-ui-_r_3k_
+							120 tab (selected, settable, boolean) Code, Value: 1, ID: base-ui-_r_3m_
+							121 tab (selectable, settable, boolean) Tweaks, Value: 0, ID: base-ui-_r_3o_
+						122 button Close properties
+						123 outline Layers
+							124 row (selectable, expanded) Description: Chosen · A layout with D folders, Secondary Actions: Collapse
+								125 button (expanded) Description: Collapse Chosen · A layout with D folders, Secondary Actions: Collapse
+								126 text Chosen · A layout with D folders
+							127 row (selectable, expanded) Description: group, “Local files / Atlas Redesi…”, Secondary Actions: Collapse
+								128 button (expanded) Description: Collapse group “Local files / Atlas Redesi…”, Secondary Actions: Collapse
+								129 text group
+								130 text “Local files / Atlas Redesi…”
+								138 button Hide group “Local files / Atlas Redesi…”
+							139 row (selectable, expanded) Description: Column, “Local files / Atlas Redesi…”, Secondary Actions: Collapse
+								140 button (expanded) Description: Collapse Column “Local files / Atlas Redesi…”, Secondary Actions: Collapse
+								141 text Column
+								142 text “Local files / Atlas Redesi…”
+								143 button Hide Column “Local files / Atlas Redesi…”
+							144 row (selectable, expanded) Description: Header, “Local files / Atlas Redesi…”, Secondary Actions: Collapse
+								145 button (expanded) Description: Collapse Header “Local files / Atlas Redesi…”, Secondary Actions: Collapse
+								146 text Header
+								147 text “Local files / Atlas Redesi…”
+								148 button Hide Header “Local files / Atlas Redesi…”
+							149 row (selectable, collapsed) Description: Column, “Local files / Atlas Redesi…”, Secondary Actions: Expand
+								150 button (collapsed) Description: Expand Column “Local files / Atlas Redesi…”, Secondary Actions: Expand
+								151 text Column
+								152 text “Local files / Atlas Redesi…”
+								153 button Hide Column “Local files / Atlas Redesi…”
+							154 row (selectable, collapsed) Description: Row, “All Documents Images Other”, Secondary Actions: Expand
+								155 button (collapsed) Description: Expand Row “All Documents Images Other”, Secondary Actions: Expand
+								156 text Row
+								157 text “All Documents Images Other”
+								158 button Hide Row “All Documents Images Other”
+							159 row (selectable, collapsed) Description: Text, “你好我好”, Secondary Actions: Expand
+								160 button (collapsed) Description: Expand Text “你好我好”, Secondary Actions: Expand
+								161 text Text
+								162 text “你好我好”
+								163 button Hide Text “你好我好”
+							164 row (selected, collapsed) Description: Section, “Folders 6 Interview: harbo…”, Secondary Actions: Expand
+								165 button (collapsed) Description: Expand Section “Folders 6 Interview: harbo…”, Secondary Actions: Expand
+								166 text Section
+								167 text “Folders 6 Interview: harbo…”
+								168 button Hide Section “Folders 6 Interview: harbo…”
+							169 row (selectable, collapsed) Description: Section, “Files 15 Project brief Mak…”, Secondary Actions: Expand
+								170 button (collapsed) Description: Expand Section “Files 15 Project brief Mak…”, Secondary Actions: Expand
+								171 text Section
+								172 text “Files 15 Project brief Mak…”
+								173 button Hide Section “Files 15 Project brief Mak…”
+							174 row (selectable, collapsed) Description: Section, “Other files 2 .git .gitign…”, Secondary Actions: Expand
+								175 button (collapsed) Description: Expand Section “Other files 2 .git .gitign…”, Secondary Actions: Expand
+								176 text Section
+								177 text “Other files 2 .git .gitign…”
+								178 button Hide Section “Other files 2 .git .gitign…”
+						132 splitter Description: Resize layers list, Value: 168
+						179 container
+							180 text <section> “Folders 6 Interview: harbo…”
+						181 text entry area (settable) Description: CSS and attributes, Value: display: flex;
+flex-direction: column;
+gap: 14px;
+
+@aria-labelledby: c-folders
+						182 container From <div>
+							183 text From
+							184 button Select <div>
+							185 text font-family
+							186 text system-ui, -apple-system, 'SF Pro Text', sans-serif
+							187 button Set font-family on this element
+							188 text color
+							189 text #1f1f1f
+							190 button Set color on this element
+						134 splitter Description: Resize properties panel, Value: 312
+		135 container
+			136 container Notifications
+
+The focused UI element is 127 row (selectable, expanded) Description: group, “Local files / Atlas Redesi…”, Secondary Actions: Collapse

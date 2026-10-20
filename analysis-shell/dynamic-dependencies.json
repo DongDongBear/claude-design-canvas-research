@@ -1,0 +1,187 @@
+[
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js",
+    "from": "frame-shell-DhOopBuD.js",
+    "line": 1943
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js",
+    "from": "frame-shell-DhOopBuD.js",
+    "line": 7203
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/ce0b4c6c4-DYg9-Do-.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 4654
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c43c83380-CChY_0mG.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 5807
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c43c83380-CChY_0mG.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 5838
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cbf442711-DvEEkKDm.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 6905
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cbf442711-DvEEkKDm.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 6919
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c26621f4a-BCkxRv_i.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 19482
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c08de09ec-CEJ2M4IN.js",
+    "from": "frame-shell-chrome-C9gmiKHt.js",
+    "line": 64665
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-replica-D0Xy7sOd.js",
+    "from": "frame-shell-deferred-Br0hC66Q.js",
+    "line": 8670
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-dictate-DuZeGejU.js",
+    "from": "frame-shell-deferred-Br0hC66Q.js",
+    "line": 8692
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-speak-XVWBr-Y8.js",
+    "from": "frame-shell-deferred-Br0hC66Q.js",
+    "line": 8708
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c86ccec3d-B5gmtuVF.js",
+    "from": "shared-frame-CIAC0KKy.js",
+    "line": 974
+  },
+  {
+    "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cf2613ee5-CgpXKaa3.js",
+    "from": "shared-frame-CIAC0KKy.js",
+    "line": 17581
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/artifact.C83eZcTi.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 18
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/assets.DOAjpBS9.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 19
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/comments.CFMy0ayq.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 20
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/db.zFlAA4qL.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 21
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/dictation.f3j7VXQ8.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 22
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/downloads.axDW2QAi.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 23
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/embed.SWCZLzn6.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 24
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/endpoints.BPfoKaE1.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 25
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/files.IkpCjcgM.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 26
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/mcp.kl0G36TA.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 27
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/network.B5UA9Su4.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 28
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/paste.DeKNLIxx.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 29
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/permissions.6yWoDecA.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 30
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/reads.Bgov9hIw.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 31
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/room.BYRHiLCc.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 32
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/sample.D5wHJkl_.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 33
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/artifact.C83eZcTi.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 34
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/tts.iS74i_mi.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 35
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/user.uKicftX-.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 36
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_transforms.BC793lKi.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 38
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_comments.DjA5rMIh.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 39
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_translate.DqxC5ek1.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 40
+  },
+  {
+    "url": "https://24f1e86e-af9c-437e-98c9-fcbdb46b17f9.frame.claudeusercontent.com/_runtime/_ldx.B4FSryPi.js",
+    "from": "canvas-dom.html __FRAME_PREAMBLE",
+    "line": 41
+  }
+]

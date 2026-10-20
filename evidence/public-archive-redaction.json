@@ -1,0 +1,27 @@
+{
+  "machinePathFiles": [
+    "analysis-rea/syntax-vendor-frame-DaQ5k-Tx.js.json",
+    "analysis-rea/syntax-app.js.json",
+    "analysis-rea/shell-retry-orchestration.stdout.jsonl",
+    "analysis-rea/results-summary.json.gz",
+    "analysis-rea/syntax-fallback.stdout.json",
+    "analysis-rea/canvas-analysis.run.json",
+    "analysis-rea/canvas-retry-orchestration.stdout.jsonl",
+    "analysis-rea/canvas-retry4096.stdout.json",
+    "analysis-rea/shell-retry4096.run.json",
+    "analysis-rea/shell-analysis.stdout.json.gz",
+    "analysis-rea/syntax-orchestration.stdout.jsonl",
+    "analysis-rea/shell-analysis.run.json",
+    "analysis-rea/syntax-fallback.run.json",
+    "analysis-rea/orchestration.stdout.jsonl",
+    "analysis-rea/shell-retry4096.stdout.json",
+    "analysis-rea/syntax-dc-runtime.js.json",
+    "analysis-rea/canvas-retry4096.run.json",
+    "analysis-rea/syntax-summary.json",
+    "analysis-rea/canvas-analysis.stdout.json.gz",
+    "analysis-rea/inputs-manifest.json"
+  ],
+  "orgQueryFieldsRemoved": true,
+  "thirdPartyBundlesChanged": false,
+  "originalCapturePreservedOutsideRepository": true
+}

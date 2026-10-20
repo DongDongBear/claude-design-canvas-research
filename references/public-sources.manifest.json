@@ -1,0 +1,34 @@
+[
+  {
+    "name": "official-design-launch.html",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "final_url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "status": 200,
+    "bytes": 141079,
+    "sha256": "16fa11b55bb1fda47df637f5090c0a46d36a79484f0a27feae983edf45f770d8"
+  },
+  {
+    "name": "official-web-artifacts-builder.skill.md",
+    "url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/SKILL.md",
+    "final_url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/SKILL.md",
+    "status": 200,
+    "bytes": 3087,
+    "sha256": "81c5002c6643b0de7b8710b00e7a9038daa6fb9b68d59870ee6adb12da8d10f8"
+  },
+  {
+    "name": "official-web-artifacts-builder.bundle.sh",
+    "url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/scripts/bundle-artifact.sh",
+    "final_url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/scripts/bundle-artifact.sh",
+    "status": 200,
+    "bytes": 1517,
+    "sha256": "abf0e480bf6585b56fab8526a407dfb7dc740812bddd70c636e1e8f3df5f9618"
+  },
+  {
+    "name": "official-web-artifacts-builder.init.sh",
+    "url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/scripts/init-artifact.sh",
+    "final_url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/scripts/init-artifact.sh",
+    "status": 200,
+    "bytes": 9924,
+    "sha256": "355e5dd4382aaaee91f01f1627eaeab30b2676ffa8d9b3ec328a1ae450ebccaa"
+  }
+]

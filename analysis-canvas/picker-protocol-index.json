@@ -1,0 +1,915 @@
+{
+  "source": "embedded-scripts/03-string-L86812.js",
+  "events": [
+    {
+      "type": "select",
+      "line": 1966
+    },
+    {
+      "type": "select",
+      "line": 1970
+    },
+    {
+      "type": "select",
+      "line": 1985
+    },
+    {
+      "type": "movePreview",
+      "line": 3664
+    },
+    {
+      "type": "movePreviewCancel",
+      "line": 3721
+    },
+    {
+      "type": "styleRevert",
+      "line": 4023
+    },
+    {
+      "type": "dragState",
+      "line": 4070
+    },
+    {
+      "type": "dragCancel",
+      "line": 4073
+    },
+    {
+      "type": "styleRevert",
+      "line": 4107
+    },
+    {
+      "type": "styleRevert",
+      "line": 4116
+    },
+    {
+      "type": "styleRevert",
+      "line": 4130
+    },
+    {
+      "type": "move",
+      "line": 4139
+    },
+    {
+      "type": "move",
+      "line": 4163
+    },
+    {
+      "type": "move",
+      "line": 4182
+    },
+    {
+      "type": "boxLive",
+      "line": 4296
+    },
+    {
+      "type": "select",
+      "line": 4367
+    },
+    {
+      "type": "insert",
+      "line": 4569
+    },
+    {
+      "type": "strokeEndpoint",
+      "line": 5122
+    },
+    {
+      "type": "stylePreview",
+      "line": 5570
+    },
+    {
+      "type": "styleRevert",
+      "line": 5599
+    },
+    {
+      "type": "groupTransform",
+      "line": 5642
+    },
+    {
+      "type": "stylePreview",
+      "line": 5677
+    },
+    {
+      "type": "styleRevert",
+      "line": 5764
+    },
+    {
+      "type": "rotate",
+      "line": 5774
+    },
+    {
+      "type": "resize",
+      "line": 5782
+    },
+    {
+      "type": "chrome",
+      "line": 6096
+    },
+    {
+      "type": "directiveState",
+      "line": 6168
+    },
+    {
+      "type": "insert",
+      "line": 6388
+    },
+    {
+      "type": "insert",
+      "line": 6430
+    },
+    {
+      "type": "dragDrop",
+      "line": 6475
+    },
+    {
+      "type": "__dc_zoom",
+      "line": 6512
+    },
+    {
+      "type": "__dc_pan_zoom",
+      "line": 6523
+    },
+    {
+      "type": "panZoom",
+      "line": 6810
+    },
+    {
+      "type": "panHold",
+      "line": 7076
+    },
+    {
+      "type": "panHold",
+      "line": 7246
+    },
+    {
+      "type": "panHold",
+      "line": 7263
+    },
+    {
+      "type": "fileDrop",
+      "line": 7383
+    },
+    {
+      "type": "fileDrop",
+      "line": 7394
+    },
+    {
+      "type": "fileDrop",
+      "line": 7405
+    },
+    {
+      "type": "clipboardKey",
+      "line": 7547
+    },
+    {
+      "type": "filePaste",
+      "line": 7602
+    },
+    {
+      "type": "clipboardKey",
+      "line": 7603
+    },
+    {
+      "type": "pointerPresence",
+      "line": 7613
+    },
+    {
+      "type": "pointerAt",
+      "line": 7624
+    },
+    {
+      "type": "pointerPresence",
+      "line": 7641
+    },
+    {
+      "type": "repeatRefused",
+      "line": 7650
+    },
+    {
+      "type": "repeatRefused",
+      "line": 7656
+    },
+    {
+      "type": "dragMove",
+      "line": 8077
+    },
+    {
+      "type": "dragReturn",
+      "line": 8088
+    },
+    {
+      "type": "stylePreview",
+      "line": 8175
+    },
+    {
+      "type": "stylePreview",
+      "line": 8197
+    },
+    {
+      "type": "movePreview",
+      "line": 8303
+    },
+    {
+      "type": "stylePreview",
+      "line": 8323
+    },
+    {
+      "type": "stylePreview",
+      "line": 8339
+    },
+    {
+      "type": "linkEdit",
+      "line": 8472
+    },
+    {
+      "type": "linkEdit",
+      "line": 8488
+    },
+    {
+      "type": "linkEdit",
+      "line": 8513
+    },
+    {
+      "type": "textEditState",
+      "line": 8530
+    },
+    {
+      "type": "textEditState",
+      "line": 8534
+    },
+    {
+      "type": "textEditState",
+      "line": 8556
+    },
+    {
+      "type": "foreignTextEdit",
+      "line": 9476
+    },
+    {
+      "type": "textEdit",
+      "line": 9484
+    },
+    {
+      "type": "textEditEnd",
+      "line": 9495
+    },
+    {
+      "type": "textEditDenied",
+      "line": 9568
+    },
+    {
+      "type": "textEditDenied",
+      "line": 9573
+    },
+    {
+      "type": "textEditDenied",
+      "line": 9581
+    },
+    {
+      "type": "textEditDenied",
+      "line": 9624
+    },
+    {
+      "type": "textEditDenied",
+      "line": 9633
+    },
+    {
+      "type": "penDblClick",
+      "line": 9648
+    },
+    {
+      "type": "cropRequest",
+      "line": 9702
+    },
+    {
+      "type": "textEditDenied",
+      "line": 9713
+    },
+    {
+      "type": "previewClick",
+      "line": 9732
+    },
+    {
+      "type": "__dc_preview_drop_notice",
+      "line": 10194
+    },
+    {
+      "type": "fileDrop",
+      "line": 10222
+    },
+    {
+      "type": "modifierKey",
+      "line": 10237
+    },
+    {
+      "type": "mousemove",
+      "line": 10243
+    },
+    {
+      "type": "modifierKey",
+      "line": 10343
+    },
+    {
+      "type": "textEditBlur",
+      "line": 10345
+    },
+    {
+      "type": "modifierKey",
+      "line": 10352
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10419
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10426
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10447
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10482
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10531
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10561
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10596
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10620
+    },
+    {
+      "type": "deleteSelection",
+      "line": 10652
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10682
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10690
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10717
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10737
+    },
+    {
+      "type": "clipboardKey",
+      "line": 10746
+    },
+    {
+      "type": "contextMenu",
+      "line": 10821
+    },
+    {
+      "type": "contextMenu",
+      "line": 10903
+    },
+    {
+      "type": "canvasPointerDown",
+      "line": 11111
+    },
+    {
+      "type": "canvasPointerDown",
+      "line": 11112
+    },
+    {
+      "type": "insert",
+      "line": 11374
+    },
+    {
+      "type": "select",
+      "line": 11484
+    },
+    {
+      "type": "contextMenu",
+      "line": 12386
+    },
+    {
+      "type": "strokeEndpoint",
+      "line": 12492
+    },
+    {
+      "type": "penDblClick",
+      "line": 12529
+    },
+    {
+      "type": "penDblClick",
+      "line": 12535
+    },
+    {
+      "type": "insert",
+      "line": 12557
+    },
+    {
+      "type": "pathEdit",
+      "line": 12623
+    },
+    {
+      "type": "contentHull",
+      "line": 13364
+    },
+    {
+      "type": "contentHull",
+      "line": 13375
+    }
+  ],
+  "api": [
+    {
+      "method": "setHostPanZoom",
+      "line": 11524,
+      "end": 11530
+    },
+    {
+      "method": "enable",
+      "line": 11531,
+      "end": 11591
+    },
+    {
+      "method": "disable",
+      "line": 11592,
+      "end": 11722
+    },
+    {
+      "method": "enablePanZoomOnly",
+      "line": 11723,
+      "end": 11745
+    },
+    {
+      "method": "setPanZoomArmed",
+      "line": 11746,
+      "end": 11781
+    },
+    {
+      "method": "setAppTheme",
+      "line": 11782,
+      "end": 11789
+    },
+    {
+      "method": "setBusyDrops",
+      "line": 11790,
+      "end": 11798
+    },
+    {
+      "method": "enableRingsOnly",
+      "line": 11799,
+      "end": 11818
+    },
+    {
+      "method": "disableRingsOnly",
+      "line": 11819,
+      "end": 11829
+    },
+    {
+      "method": "pickAt",
+      "line": 11830,
+      "end": 11879
+    },
+    {
+      "method": "pickIn",
+      "line": 11880,
+      "end": 11917
+    },
+    {
+      "method": "commentAt",
+      "line": 11918,
+      "end": 11924
+    },
+    {
+      "method": "commentFor",
+      "line": 11925,
+      "end": 11928
+    },
+    {
+      "method": "commentIn",
+      "line": 11929,
+      "end": 12009
+    },
+    {
+      "method": "commentRects",
+      "line": 12010,
+      "end": 12044
+    },
+    {
+      "method": "peerRects",
+      "line": 12045,
+      "end": 12079
+    },
+    {
+      "method": "getPanZoom",
+      "line": 12080,
+      "end": 12082
+    },
+    {
+      "method": "setPanZoom",
+      "line": 12083,
+      "end": 12085
+    },
+    {
+      "method": "repostChrome",
+      "line": 12086,
+      "end": 12088
+    },
+    {
+      "method": "cancelDrag",
+      "line": 12089,
+      "end": 12091
+    },
+    {
+      "method": "cancelBox",
+      "line": 12092,
+      "end": 12094
+    },
+    {
+      "method": "armedByClick",
+      "line": 12095,
+      "end": 12099
+    },
+    {
+      "method": "dragModifiers",
+      "line": 12100,
+      "end": 12102
+    },
+    {
+      "method": "moveStart",
+      "line": 12103,
+      "end": 12166
+    },
+    {
+      "method": "moveMove",
+      "line": 12167,
+      "end": 12176
+    },
+    {
+      "method": "moveEnd",
+      "line": 12177,
+      "end": 12190
+    },
+    {
+      "method": "moveCancel",
+      "line": 12191,
+      "end": 12193
+    },
+    {
+      "method": "moveHost",
+      "line": 12194,
+      "end": 12204
+    },
+    {
+      "method": "moveExit",
+      "line": 12205,
+      "end": 12207
+    },
+    {
+      "method": "moveReturn",
+      "line": 12208,
+      "end": 12210
+    },
+    {
+      "method": "moveTouch",
+      "line": 12211,
+      "end": 12213
+    },
+    {
+      "method": "dropPlanAt",
+      "line": 12214,
+      "end": 12362
+    },
+    {
+      "method": "dropPlanClear",
+      "line": 12363,
+      "end": 12365
+    },
+    {
+      "method": "moveSettle",
+      "line": 12366,
+      "end": 12372
+    },
+    {
+      "method": "exitDrag",
+      "line": 12373,
+      "end": 12375
+    },
+    {
+      "method": "finishExitedDrag",
+      "line": 12376,
+      "end": 12378
+    },
+    {
+      "method": "abortDrag",
+      "line": 12379,
+      "end": 12381
+    },
+    {
+      "method": "contextMenuAt",
+      "line": 12382,
+      "end": 12387
+    },
+    {
+      "method": "contextMenuBySelection",
+      "line": 12388,
+      "end": 12402
+    },
+    {
+      "method": "resizeStart",
+      "line": 12403,
+      "end": 12405
+    },
+    {
+      "method": "resizeMove",
+      "line": 12406,
+      "end": 12408
+    },
+    {
+      "method": "resizeWith",
+      "line": 12409,
+      "end": 12419
+    },
+    {
+      "method": "resizeEnd",
+      "line": 12420,
+      "end": 12422
+    },
+    {
+      "method": "rotateStart",
+      "line": 12423,
+      "end": 12425
+    },
+    {
+      "method": "rotateMove",
+      "line": 12426,
+      "end": 12428
+    },
+    {
+      "method": "rotateEnd",
+      "line": 12429,
+      "end": 12431
+    },
+    {
+      "method": "endpointStart",
+      "line": 12432,
+      "end": 12434
+    },
+    {
+      "method": "endpointMove",
+      "line": 12435,
+      "end": 12437
+    },
+    {
+      "method": "endpointEnd",
+      "line": 12438,
+      "end": 12440
+    },
+    {
+      "method": "penPreview",
+      "line": 12441,
+      "end": 12456
+    },
+    {
+      "method": "penCommit",
+      "line": 12457,
+      "end": 12505
+    },
+    {
+      "method": "openPoints",
+      "line": 12506,
+      "end": 12538
+    },
+    {
+      "method": "penInsert",
+      "line": 12539,
+      "end": 12570
+    },
+    {
+      "method": "vecPreview",
+      "line": 12571,
+      "end": 12595
+    },
+    {
+      "method": "vecCommit",
+      "line": 12596,
+      "end": 12626
+    },
+    {
+      "method": "scrollPage",
+      "line": 12627,
+      "end": 12629
+    },
+    {
+      "method": "vecRefused",
+      "line": 12630,
+      "end": 12644
+    },
+    {
+      "method": "setHostScale",
+      "line": 12645,
+      "end": 12654
+    },
+    {
+      "method": "setTextEditable",
+      "line": 12655,
+      "end": 12672
+    },
+    {
+      "method": "setDirectiveMap",
+      "line": 12673,
+      "end": 12675
+    },
+    {
+      "method": "setMeasure",
+      "line": 12676,
+      "end": 12678
+    },
+    {
+      "method": "setDeep",
+      "line": 12679,
+      "end": 12681
+    },
+    {
+      "method": "setReadOnly",
+      "line": 12682,
+      "end": 12702
+    },
+    {
+      "method": "setTool",
+      "line": 12703,
+      "end": 12735
+    },
+    {
+      "method": "patchStyle",
+      "line": 12736,
+      "end": 12748
+    },
+    {
+      "method": "holdStyle",
+      "line": 12749,
+      "end": 12769
+    },
+    {
+      "method": "unpatchStyle",
+      "line": 12770,
+      "end": 12778
+    },
+    {
+      "method": "setScrubbing",
+      "line": 12779,
+      "end": 12781
+    },
+    {
+      "method": "afterPush",
+      "line": 12782,
+      "end": 12782
+    },
+    {
+      "method": "dropLeftCopy",
+      "line": 12783,
+      "end": 12783
+    },
+    {
+      "method": "setOverlayHidden",
+      "line": 12784,
+      "end": 12790
+    },
+    {
+      "method": "startTextEdit",
+      "line": 12791,
+      "end": 12798
+    },
+    {
+      "method": "resumeTextEdit",
+      "line": 12799,
+      "end": 12812
+    },
+    {
+      "method": "textPlacing",
+      "line": 12813,
+      "end": 12815
+    },
+    {
+      "method": "noteTextInsert",
+      "line": 12816,
+      "end": 12826
+    },
+    {
+      "method": "startInsertedTextEdit",
+      "line": 12827,
+      "end": 12829
+    },
+    {
+      "method": "heldTextKey",
+      "line": 12830,
+      "end": 12830
+    },
+    {
+      "method": "dropInsertedTextEdit",
+      "line": 12831,
+      "end": 12833
+    },
+    {
+      "method": "startTextEditAt",
+      "line": 12834,
+      "end": 12855
+    },
+    {
+      "method": "clearPart",
+      "line": 12856,
+      "end": 12860
+    },
+    {
+      "method": "repaintSelected",
+      "line": 12861,
+      "end": 12866
+    },
+    {
+      "method": "select",
+      "line": 12867,
+      "end": 12899
+    },
+    {
+      "method": "hover",
+      "line": 12900,
+      "end": 12902
+    },
+    {
+      "method": "hoverAt",
+      "line": 12903,
+      "end": 12927
+    },
+    {
+      "method": "finishEdit",
+      "line": 12928,
+      "end": 12930
+    },
+    {
+      "method": "repostTextEditState",
+      "line": 12931,
+      "end": 12933
+    },
+    {
+      "method": "format",
+      "line": 12934,
+      "end": 12947
+    },
+    {
+      "method": "applyLink",
+      "line": 12948,
+      "end": 13028
+    },
+    {
+      "method": "cancelLinkEdit",
+      "line": 13029,
+      "end": 13036
+    },
+    {
+      "method": "deleteForeign",
+      "line": 13037,
+      "end": 13062
+    },
+    {
+      "method": "stampLive",
+      "line": 13063,
+      "end": 13084
+    },
+    {
+      "method": "applyBody",
+      "line": 13085,
+      "end": 13095
+    },
+    {
+      "method": "bodySnapshot",
+      "line": 13096,
+      "end": 13149
+    },
+    {
+      "method": "firstTextFont",
+      "line": 13150,
+      "end": 13176
+    },
+    {
+      "method": "inspect",
+      "line": 13177,
+      "end": 13243
+    },
+    {
+      "method": "verify",
+      "line": 13244,
+      "end": 13320
+    }
+  ]
+}

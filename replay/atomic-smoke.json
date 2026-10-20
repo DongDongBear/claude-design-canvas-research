@@ -1,0 +1,33 @@
+{
+  "create": [
+    200,
+    {
+      "version": "replay-4",
+      "seq": 4,
+      "shas": {
+        "project/ReplayAtomicSmoke.txt": "a7007583d4f4548788b2f5032cc57be57515d40e00526e89b69538e9a7ac4f7f"
+      },
+      "changed": [
+        {
+          "path": "project/ReplayAtomicSmoke.txt",
+          "sha256": "a7007583d4f4548788b2f5032cc57be57515d40e00526e89b69538e9a7ac4f7f"
+        }
+      ]
+    }
+  ],
+  "delete": [
+    200,
+    {
+      "version": "replay-5",
+      "seq": 5,
+      "shas": {},
+      "changed": [
+        {
+          "path": "project/ReplayAtomicSmoke.txt",
+          "sha256": null
+        }
+      ]
+    }
+  ],
+  "passed": true
+}

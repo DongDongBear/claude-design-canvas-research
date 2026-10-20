@@ -1,0 +1,181 @@
+{
+  "frameTree": {
+    "childFrames": [
+      {
+        "frame": {
+          "adFrameStatus": {
+            "adFrameType": "none",
+            "explanations": []
+          },
+          "crossOriginIsolatedContextType": "NotIsolated",
+          "domainAndRegistry": "",
+          "gatedAPIFeatures": [],
+          "id": "D9921431BBC52A0C300DC2E4DA905E3E",
+          "loaderId": "EAB2A6CE6492042A7B5ECABF81584A4D",
+          "mimeType": "text/html",
+          "name": "",
+          "parentId": "349DC7E842473D4DF54EB70B70B02731",
+          "secureContextType": "Secure",
+          "securityOrigin": "://",
+          "securityOriginDetails": {
+            "isLocalhost": false
+          },
+          "url": "about:blank"
+        },
+        "resources": [
+          {
+            "contentSize": 23645,
+            "mimeType": "application/javascript",
+            "type": "Script",
+            "url": "https://claude.ai/cdn-cgi/challenge-platform/scripts/jsd/main.js"
+          }
+        ]
+      },
+      {
+        "frame": {
+          "adFrameStatus": {
+            "adFrameType": "none",
+            "explanations": []
+          },
+          "crossOriginIsolatedContextType": "NotIsolated",
+          "domainAndRegistry": "",
+          "gatedAPIFeatures": [],
+          "id": "B156FC6C3DCE29D4297E0372DF4B7A5C",
+          "loaderId": "A20249A82570BA79D7AC8ACE96F41D66",
+          "mimeType": "text/html",
+          "name": "youmind-sidebar",
+          "parentId": "349DC7E842473D4DF54EB70B70B02731",
+          "secureContextType": "Secure",
+          "securityOrigin": "://",
+          "securityOriginDetails": {
+            "isLocalhost": false
+          },
+          "url": "about:blank"
+        },
+        "resources": []
+      }
+    ],
+    "frame": {
+      "adFrameStatus": {
+        "adFrameType": "none"
+      },
+      "crossOriginIsolatedContextType": "NotIsolated",
+      "domainAndRegistry": "claude.ai",
+      "gatedAPIFeatures": [],
+      "id": "349DC7E842473D4DF54EB70B70B02731",
+      "loaderId": "B985C938EF40D66C5F551B260DFEBB98",
+      "mimeType": "text/html",
+      "secureContextType": "Secure",
+      "securityOrigin": "https://claude.ai",
+      "securityOriginDetails": {
+        "isLocalhost": false
+      },
+      "url": "https://claude.ai/artifact/5ZbyQywWA1edfqHDeTtVZJ",
+      "urlFragment": "#page-dcb81aee8d83"
+    },
+    "resources": [
+      {
+        "contentSize": 0,
+        "mimeType": "image/svg+xml",
+        "type": "Image",
+        "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20fill%3D%22%23f1effc%22%2F%3E%3Cg%20id%3D%22g%22%20color%3D%22%237161e0%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20transform%3D%22translate(4%204)%20scale(1.2)%22%3E%3Cpath%20d%3D%22M3%2010C3%206.134%206.134%203%2010%203C13.866%203%2017%206.134%2017%2010C17%2011%2016.712%2011.608%2016.257%2011.974C15.803%2012.34%2015.183%2012.463%2014.52%2012.493C13.857%2012.524%2013.15%2012.461%2012.522%2012.454C12.209%2012.45%2011.915%2012.461%2011.656%2012.504C11.397%2012.547%2011.173%2012.623%2011%2012.75C10.625%2013.025%2010.469%2013.46%2010.398%2013.946C10.363%2014.19%2010.35%2014.446%2010.341%2014.702C10.332%2014.958%2010.328%2015.213%2010.313%2015.455C10.281%2015.939%2010.203%2016.367%209.945%2016.634C9.688%2016.9%209.25%2017%208.5%2016.839C8.157%2016.763%207.823%2016.663%207.5%2016.539C4.87%2015.529%203%2012.985%203%2010Z%22%2F%3E%3Cpath%20d%3D%22M10.968%205.5C10.707%205.517%2010.5%205.734%2010.5%206C10.5%206.276%2010.724%206.5%2011%206.5C11.276%206.5%2011.5%206.276%2011.5%206C11.5%205.734%2011.293%205.517%2011.032%205.5%22%2F%3E%3Cpath%20d%3D%22M13.968%208.5C13.707%208.517%2013.5%208.734%2013.5%209C13.5%209.276%2013.724%209.5%2014%209.5C14.276%209.5%2014.5%209.276%2014.5%209C14.5%208.734%2014.293%208.517%2014.032%208.5%22%2F%3E%3Cpath%20d%3D%22M6.968%206.5C6.707%206.517%206.5%206.734%206.5%207C6.5%207.276%206.724%207.5%207%207.5C7.276%207.5%207.5%207.276%207.5%207C7.5%206.734%207.293%206.517%207.032%206.5%22%2F%3E%3Cpath%20d%3D%22M5.968%2010.5C5.707%2010.517%205.5%2010.734%205.5%2011C5.5%2011.276%205.724%2011.5%206%2011.5C6.276%2011.5%206.5%2011.276%206.5%2011C6.5%2010.734%206.293%2010.517%206.032%2010.5%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+      },
+      {
+        "contentSize": 577303,
+        "lastModified": 1792473197,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-broker-HUDVMAJS.js"
+      },
+      {
+        "contentSize": 1163,
+        "lastModified": 1792012479,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/rolldown-runtime-BmbMa3VH.js"
+      },
+      {
+        "contentSize": 32343,
+        "lastModified": 1792473185,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-header-CQorDb5K.js"
+      },
+      {
+        "contentSize": 1672931,
+        "lastModified": 1792487694,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-chrome-C9gmiKHt.js"
+      },
+      {
+        "contentSize": 259522,
+        "lastModified": 1792473194,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-deferred-Br0hC66Q.js"
+      },
+      {
+        "contentSize": 0,
+        "mimeType": "image/svg+xml",
+        "type": "Image",
+        "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22180%22%20height%3D%22180%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20fill%3D%22%23f1effc%22%2F%3E%3Cg%20id%3D%22g%22%20color%3D%22%237161e0%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20transform%3D%22translate(4%204)%20scale(1.2)%22%3E%3Cpath%20d%3D%22M3%2010C3%206.134%206.134%203%2010%203C13.866%203%2017%206.134%2017%2010C17%2011%2016.712%2011.608%2016.257%2011.974C15.803%2012.34%2015.183%2012.463%2014.52%2012.493C13.857%2012.524%2013.15%2012.461%2012.522%2012.454C12.209%2012.45%2011.915%2012.461%2011.656%2012.504C11.397%2012.547%2011.173%2012.623%2011%2012.75C10.625%2013.025%2010.469%2013.46%2010.398%2013.946C10.363%2014.19%2010.35%2014.446%2010.341%2014.702C10.332%2014.958%2010.328%2015.213%2010.313%2015.455C10.281%2015.939%2010.203%2016.367%209.945%2016.634C9.688%2016.9%209.25%2017%208.5%2016.839C8.157%2016.763%207.823%2016.663%207.5%2016.539C4.87%2015.529%203%2012.985%203%2010Z%22%2F%3E%3Cpath%20d%3D%22M10.968%205.5C10.707%205.517%2010.5%205.734%2010.5%206C10.5%206.276%2010.724%206.5%2011%206.5C11.276%206.5%2011.5%206.276%2011.5%206C11.5%205.734%2011.293%205.517%2011.032%205.5%22%2F%3E%3Cpath%20d%3D%22M13.968%208.5C13.707%208.517%2013.5%208.734%2013.5%209C13.5%209.276%2013.724%209.5%2014%209.5C14.276%209.5%2014.5%209.276%2014.5%209C14.5%208.734%2014.293%208.517%2014.032%208.5%22%2F%3E%3Cpath%20d%3D%22M6.968%206.5C6.707%206.517%206.5%206.734%206.5%207C6.5%207.276%206.724%207.5%207%207.5C7.276%207.5%207.5%207.276%207.5%207C7.5%206.734%207.293%206.517%207.032%206.5%22%2F%3E%3Cpath%20d%3D%22M5.968%2010.5C5.707%2010.517%205.5%2010.734%205.5%2011C5.5%2011.276%205.724%2011.5%206%2011.5C6.276%2011.5%206.5%2011.276%206.5%2011C6.5%2010.734%206.293%2010.517%206.032%2010.5%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+      },
+      {
+        "contentSize": 5276,
+        "lastModified": 1792386705,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-boot-C59TeSGR.js"
+      },
+      {
+        "contentSize": 102544,
+        "lastModified": 1791904733,
+        "mimeType": "font/woff2",
+        "type": "Font",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/c0f671921-cvFTkbeX.woff2"
+      },
+      {
+        "contentSize": 0,
+        "mimeType": "image/svg+xml",
+        "type": "Image",
+        "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22192%22%20height%3D%22192%22%20viewBox%3D%220%200%2032%2032%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20fill%3D%22%23f1effc%22%2F%3E%3Cg%20id%3D%22g%22%20color%3D%22%237161e0%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%221.35%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20transform%3D%22translate(4%204)%20scale(1.2)%22%3E%3Cpath%20d%3D%22M3%2010C3%206.134%206.134%203%2010%203C13.866%203%2017%206.134%2017%2010C17%2011%2016.712%2011.608%2016.257%2011.974C15.803%2012.34%2015.183%2012.463%2014.52%2012.493C13.857%2012.524%2013.15%2012.461%2012.522%2012.454C12.209%2012.45%2011.915%2012.461%2011.656%2012.504C11.397%2012.547%2011.173%2012.623%2011%2012.75C10.625%2013.025%2010.469%2013.46%2010.398%2013.946C10.363%2014.19%2010.35%2014.446%2010.341%2014.702C10.332%2014.958%2010.328%2015.213%2010.313%2015.455C10.281%2015.939%2010.203%2016.367%209.945%2016.634C9.688%2016.9%209.25%2017%208.5%2016.839C8.157%2016.763%207.823%2016.663%207.5%2016.539C4.87%2015.529%203%2012.985%203%2010Z%22%2F%3E%3Cpath%20d%3D%22M10.968%205.5C10.707%205.517%2010.5%205.734%2010.5%206C10.5%206.276%2010.724%206.5%2011%206.5C11.276%206.5%2011.5%206.276%2011.5%206C11.5%205.734%2011.293%205.517%2011.032%205.5%22%2F%3E%3Cpath%20d%3D%22M13.968%208.5C13.707%208.517%2013.5%208.734%2013.5%209C13.5%209.276%2013.724%209.5%2014%209.5C14.276%209.5%2014.5%209.276%2014.5%209C14.5%208.734%2014.293%208.517%2014.032%208.5%22%2F%3E%3Cpath%20d%3D%22M6.968%206.5C6.707%206.517%206.5%206.734%206.5%207C6.5%207.276%206.724%207.5%207%207.5C7.276%207.5%207.5%207.276%207.5%207C7.5%206.734%207.293%206.517%207.032%206.5%22%2F%3E%3Cpath%20d%3D%22M5.968%2010.5C5.707%2010.517%205.5%2010.734%205.5%2011C5.5%2011.276%205.724%2011.5%206%2011.5C6.276%2011.5%206.5%2011.276%206.5%2011C6.5%2010.734%206.293%2010.517%206.032%2010.5%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+      },
+      {
+        "contentSize": 3693,
+        "lastModified": 1792012471,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/preload-helper-B-PsknVJ.js"
+      },
+      {
+        "contentSize": 511958,
+        "lastModified": 1792473186,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/vendor-frame-DaQ5k-Tx.js"
+      },
+      {
+        "contentSize": 492455,
+        "lastModified": 1792473185,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/shared-frame-CIAC0KKy.js"
+      },
+      {
+        "contentSize": 118172,
+        "lastModified": 1782756777,
+        "mimeType": "font/woff2",
+        "type": "Font",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cc27851ad-DDVos-BJ.woff2"
+      },
+      {
+        "contentSize": 158882,
+        "lastModified": 1792487701,
+        "mimeType": "text/javascript",
+        "type": "Script",
+        "url": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/frame-shell-DhOopBuD.js"
+      }
+    ]
+  }
+}
